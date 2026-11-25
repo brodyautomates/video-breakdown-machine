@@ -35,7 +35,7 @@ evidence it uses, so it often calls filmed footage "AI". You fix that by looking
    shot, look at the image in `images.sheet` and judge how the base picture was made.
 3. Fill in every shot in `runs/<name>/review_answers.json`:
    - `label_probs`: how sure you are it is `live_action`, `ai_video`, `avatar` and so on. They should add up to 1.
-   - `image_source`: for example `camera`, `screen_recording`, `ai`, `code`.
+   - `image_source`: one of `ai_image`, `photo`, `graphic`, `screenshot`, `unknown`.
    - `evidence`: two to four things you can actually see (the same person, room and props across shots; real
      handwriting; warped hands; text that morphs). Never write evidence you did not see.
    - `description`: one or two sentences of what is on screen.
