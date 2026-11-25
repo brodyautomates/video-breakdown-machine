@@ -1,0 +1,9 @@
+.venv/
+.engine/
+runs/
+__pycache__/
+*.pyc
+.DS_Store
+*.wav
+!examples/**/sfx/*.wav
+source.*

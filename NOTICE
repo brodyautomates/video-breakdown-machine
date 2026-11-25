@@ -1,0 +1,18 @@
+FounderOS Video Breakdown Machine
+Copyright (c) 2026 Brody Glanville. MIT licence (see LICENSE).
+
+This project does not include, but installs and runs, the following:
+
+rea-video (https://github.com/JuneYaooo/rea-video)
+  Copyright its authors. Apache License 2.0.
+  The breakdown engine: shot detection, the filmed / AI / code verdict, camera, lighting, captions and sound
+  measurements, the report and the VIDEO.md package are all its work. install.py downloads it at a pinned commit.
+
+VIDEO.md (https://videomd.github.io/videomd/)
+  The open format the breakdowns are written in.
+
+Sound separation models used by rea-video (downloaded by it on first use, not part of this repo):
+  UVR MDX-Net (https://github.com/TRvlvr/model_repo)
+  BandIt v2 (https://github.com/kwatcharasupat/bandit-v2), weights CC BY-SA 4.0
+
+yt-dlp (https://github.com/yt-dlp/yt-dlp), Unlicense. Used to download a video from a link.
