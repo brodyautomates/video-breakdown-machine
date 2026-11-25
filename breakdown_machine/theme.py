@@ -14,14 +14,8 @@ MARK = "<!-- video-breakdown-machine skin -->"
 REPO = "https://github.com/brodyautomates/video-breakdown-machine"
 
 CSS = """
-:root{--bg:#f4f7fd;--fg:#0f1b33;--muted:#5b6b88;--card:#ffffff;--line:#dbe3f3;--accent:#1659d6;--bp:#1e62d8;--bp2:#124cbb}
-@media (prefers-color-scheme:dark){:root{--bg:#081226;--fg:#eaf0fb;--muted:#93a4c4;--card:#0e1c38;--line:#1d315a;--accent:#7fb0ff}}
-body{padding:0 16px 24px;font-family:Geist,Inter,-apple-system,"Segoe UI",sans-serif}
-main{padding-top:8px}
-h1{font-size:24px;letter-spacing:-.01em;font-weight:600} h2{font-weight:600}
-.card{border-radius:14px}
-code,pre.prompt{font-family:"JetBrains Mono","Geist Mono",ui-monospace,Menlo,monospace}
-.vbm-head{margin:0 -16px 18px;padding:26px 24px 22px;color:#fff;position:relative;overflow:hidden;
+:root{--bp:#1e62d8}
+.vbm-head{margin:0 0 18px;padding:26px 24px 22px;color:#fff;position:relative;overflow:hidden;
  background-color:var(--bp);
  background-image:
   linear-gradient(rgba(255,255,255,.13) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.13) 1px,transparent 1px),
@@ -33,8 +27,9 @@ code,pre.prompt{font-family:"JetBrains Mono","Geist Mono",ui-monospace,Menlo,mon
 .vbm-head .t{font:500 12px/1.2 "JetBrains Mono","Geist Mono",ui-monospace,Menlo,monospace;letter-spacing:.08em;text-transform:uppercase;opacity:.9}
 .vbm-head .r{margin-left:auto;font:500 12px/1.2 "JetBrains Mono","Geist Mono",ui-monospace,Menlo,monospace;opacity:.75}
 .vbm-head a{color:#fff;text-decoration:none;border-bottom:1px solid rgba(255,255,255,.5)}
-.vbm-foot{max-width:1100px;margin:28px auto 0;padding-top:14px;border-top:1px solid var(--line);color:var(--muted);font-size:12.5px;display:flex;gap:8px 18px;flex-wrap:wrap}
-.vbm-foot a{color:var(--accent)}
+.vbm-head{font-family:Geist,Inter,-apple-system,'Segoe UI',sans-serif}
+.vbm-foot{max-width:1100px;margin:28px auto 0;padding:14px 16px 24px;border-top:1px solid rgba(128,140,170,.35);color:#8a97b4;font:12.5px/1.6 Geist,Inter,-apple-system,'Segoe UI',sans-serif;display:flex;gap:8px 18px;flex-wrap:wrap}
+.vbm-foot a{color:#6ea2ff}
 @media print{.vbm-head{-webkit-print-color-adjust:exact;print-color-adjust:exact;margin:0 0 12px}.vbm-foot{font-size:10px}}
 """
 
@@ -60,7 +55,7 @@ def apply(report: Path) -> bool:
         raise SystemExit(f"{report} does not look like an engine report (no <style> or <body>)")
     html = html.replace("</style>", CSS + "</style>", 1)
     html = html.replace("<body>", "<body>" + head, 1)
-    html = html.replace("</main>", foot + "</main>", 1) if "</main>" in html else html.replace("</body>", foot + "</body>", 1)
+    html = html.replace("</body>", foot + "</body>", 1)
     report.write_text(html, encoding="utf-8")
     return True
 

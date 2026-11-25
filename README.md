@@ -79,7 +79,7 @@ python3 breakdown_machine/run.py https://www.instagram.com/reel/XXXXXXXX/
 python3 breakdown_machine/run.py my-video.mp4          # or a file
 ```
 
-Everything lands in `runs/<name>/`. If a site refuses the download without a login, save the video yourself and pass the file, or add `--cookies-from-browser chrome`.
+Everything lands in `runs/<name>/`. This is the slow part: a 64 second reel took 18 minutes on my MacBook Pro, because it measures every frame and separates the voice, music and sound effects. If a site refuses the download without a login, save the video yourself and pass the file, or add `--cookies-from-browser chrome`.
 
 ### 3. Review
 
@@ -116,7 +116,11 @@ Want a plan instead of a skill? Say **"help me make my own version of runs/&lt;n
 
 Worked examples, made with the commands above. Each folder has the report, the `VIDEO.md` package and the frames.
 
-<!-- LIBRARY -->
+| Video | Plays | Length | Made with | Shots | Open |
+|---|---|---|---|---|---|
+| [Tuesday simulator](https://www.instagram.com/reel/DNheWi8uTPK/), my most played reel | 5.2M | 64 s | filmed 74%, motion graphics 26% | 29 | [report](breakdowns/tuesday-simulator/report.md) · [VIDEO.md](breakdowns/tuesday-simulator/VIDEO.md) · [storyboard](breakdowns/tuesday-simulator/storyboard.jpg) |
+
+More of my reels are being added. These are my own videos, so the frames are mine to publish. Break down anyone's video for yourself, but keep other people's frames out of anything you publish.
 
 Break down several videos and compare them:
 

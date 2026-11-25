@@ -1,0 +1,6901 @@
+{
+  "text": [
+    {
+      "id": "text_001",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 0.0,
+      "t1": 0.1,
+      "text": "JUST",
+      "lines": [
+        "JUST"
+      ],
+      "bbox": [
+        0.3917,
+        0.6117,
+        0.225,
+        0.0391
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f0f7f3",
+        "stroke_name": "grey",
+        "stroke": "#74707c",
+        "stroke_ratio": 0.036,
+        "weight": 0.191
+      },
+      "style_zh": "white text, grey outline, line height 3.9% (about 75px)",
+      "anim_in": null,
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_002",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 0.5,
+      "t1": 0.7,
+      "text": "MOST",
+      "lines": [
+        "MOST"
+      ],
+      "bbox": [
+        0.3819,
+        0.6133,
+        0.2403,
+        0.0367
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f2f9f5",
+        "stroke_name": "grey",
+        "stroke": "#74717e",
+        "stroke_ratio": 0.035,
+        "weight": 0.215
+      },
+      "style_zh": "white text, grey outline, bold, line height 3.7% (about 70px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "slide_out",
+        "kind_zh": "slide out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_003",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 0.8,
+      "t1": 1.8,
+      "text": "WORKFLOW",
+      "lines": [
+        "WORKFLOW"
+      ],
+      "bbox": [
+        0.2681,
+        0.6141,
+        0.4694,
+        0.0352
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f5f9f6",
+        "stroke_name": "grey",
+        "stroke": "#7f8595",
+        "stroke_ratio": 0.041,
+        "weight": 0.212
+      },
+      "style_zh": "white text, grey outline, bold, line height 3.5% (about 68px)",
+      "anim_in": null,
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_004",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 1.9,
+      "t1": 2.1,
+      "text": "SEE.",
+      "lines": [
+        "SEE."
+      ],
+      "bbox": [
+        0.4069,
+        0.6125,
+        0.1819,
+        0.0375
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f9f9f2",
+        "weight": 0.176
+      },
+      "style_zh": "white text, line height 3.8% (about 72px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_005",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 2.5,
+      "t1": 3.8,
+      "text": "SIMULATOR",
+      "lines": [
+        "SIMULATOR"
+      ],
+      "bbox": [
+        0.2639,
+        0.6047,
+        0.4694,
+        0.0477
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f2f9f5",
+        "stroke_name": "grey",
+        "stroke": "#787984",
+        "stroke_ratio": 0.024,
+        "weight": 0.166
+      },
+      "style_zh": "white text, grey outline, line height 4.8% (about 92px)",
+      "anim_in": null,
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_009",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 3.8,
+      "t1": 6.8,
+      "text": "Wait2",
+      "lines": [
+        "Wait2"
+      ],
+      "bbox": [
+        0.4986,
+        0.7352,
+        0.1612,
+        0.0405
+      ],
+      "style": {
+        "fill": "#8b8e93",
+        "fill_name": "grey",
+        "stroke": "#606065",
+        "stroke_name": "grey",
+        "stroke_ratio": 0.016,
+        "weight": 0.073
+      },
+      "style_zh": "grey text, grey outline, line height 3.4% (about 66px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": true,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_016",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 6.8,
+      "t1": 8.3,
+      "text": "INSTAGRAM1",
+      "lines": [
+        "INSTAGRAM1"
+      ],
+      "bbox": [
+        0.2125,
+        0.1898,
+        0.193,
+        0.0219
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#d2d2d8",
+        "weight": 0.068
+      },
+      "style_zh": "white text, line height 2.2% (about 42px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": null,
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_017",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 6.8,
+      "t1": 8.3,
+      "text": "TIKTOK1",
+      "lines": [
+        "TIKTOK1"
+      ],
+      "bbox": [
+        0.5486,
+        0.1953,
+        0.1139,
+        0.0204
+      ],
+      "style": {
+        "fill_name": "grey",
+        "fill": "#78787d",
+        "weight": 0.083
+      },
+      "style_zh": "grey text, line height 1.8% (about 35px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_018",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 6.8,
+      "t1": 8.3,
+      "text": "TWITTER1",
+      "lines": [
+        "TWITTER1"
+      ],
+      "bbox": [
+        0.7847,
+        0.2008,
+        0.1126,
+        0.0195
+      ],
+      "style": {
+        "fill_name": "grey",
+        "fill": "#b2b3b8",
+        "multicolor": true,
+        "highlight_name": "grey",
+        "weight": 0.083
+      },
+      "style_zh": "grey text, keywords highlighted in grey, line height 1.8% (about 35px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_019",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 6.8,
+      "t1": 8.3,
+      "text": "POT:https://backend.blotato..POST:https:/backend.blotat..POS:htps://backend.blta",
+      "lines": [
+        "POT:https://backend.blotato..POST:https:/backend.blotat..POS:htps://backend.blta"
+      ],
+      "bbox": [
+        0.1236,
+        0.2102,
+        0.8028,
+        0.0289
+      ],
+      "style": {
+        "fill_name": "grey",
+        "fill": "#6a6b72",
+        "weight": 0.055
+      },
+      "style_zh": "grey text, line height 2.7% (about 52px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_022",
+      "kind": "huazi",
+      "kind_zh": "styled text",
+      "t0": 6.8,
+      "t1": 8.3,
+      "text": "pT:https://backend.blotato...OST:http//backend.blotato...PoS:https://backen",
+      "lines": [
+        "pT:https://backend.blotato...OST:http//backend.blotato...PoS:https://backen"
+      ],
+      "bbox": [
+        0.1375,
+        0.3555,
+        0.7486,
+        0.057
+      ],
+      "style": {
+        "fill_name": "grey",
+        "fill": "#38363c",
+        "weight": 0.105
+      },
+      "style_zh": "grey text, line height 5.6% (about 108px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": null,
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_023",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 7.0,
+      "t1": 8.1,
+      "text": "FACEBOOK1",
+      "lines": [
+        "FACEBOOK1"
+      ],
+      "bbox": [
+        0.2208,
+        0.3602,
+        0.182,
+        0.0258
+      ],
+      "style": {
+        "fill_name": "black",
+        "fill": "#24111b",
+        "weight": 0.086
+      },
+      "style_zh": "black text, line height 2.5% (about 48px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "fade_out",
+        "kind_zh": "fade out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_024",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 6.8,
+      "t1": 8.4,
+      "text": "\"RISEAND GRIND",
+      "lines": [
+        "\"RISEAND GRIND"
+      ],
+      "bbox": [
+        0.1264,
+        0.5211,
+        0.7542,
+        0.0375
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#fafcfc",
+        "stroke_name": "grey",
+        "stroke": "#979899",
+        "stroke_ratio": 0.027,
+        "weight": 0.199
+      },
+      "style_zh": "white text, grey outline, line height 3.8% (about 72px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "slide_out",
+        "kind_zh": "slide out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_026",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 8.5,
+      "t1": 9.6,
+      "text": "3h",
+      "lines": [
+        "3h"
+      ],
+      "bbox": [
+        0.7681,
+        0.0781,
+        0.0402,
+        0.0446
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f5f4f9",
+        "weight": 0.148
+      },
+      "style_zh": "white text, line height 1.5% (about 28px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "fade_out",
+        "kind_zh": "fade out"
+      },
+      "mid_motion": true,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_030",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 8.5,
+      "t1": 9.6,
+      "text": "stop saying this",
+      "lines": [
+        "stop saying this"
+      ],
+      "bbox": [
+        0.2972,
+        0.2078,
+        0.2333,
+        0.0555
+      ],
+      "style": {
+        "fill_name": "red",
+        "fill": "#987577",
+        "multicolor": true,
+        "highlight_name": "cyan",
+        "weight": 0.073
+      },
+      "style_zh": "red text, keywords highlighted in cyan, line height 2.2% (about 42px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": true,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_031",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 8.5,
+      "t1": 9.6,
+      "text": "Sara Miller·2h",
+      "lines": [
+        "Sara Miller·2h"
+      ],
+      "bbox": [
+        0.2958,
+        0.2477,
+        0.2306,
+        0.0523
+      ],
+      "style": {
+        "fill_name": "black",
+        "fill": "#23121b",
+        "weight": 0.124
+      },
+      "style_zh": "black text, line height 1.7% (about 33px)",
+      "anim_in": null,
+      "anim_out": {
+        "kind": "fade_out",
+        "kind_zh": "fade out"
+      },
+      "mid_motion": true,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_032",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 8.5,
+      "t1": 9.6,
+      "text": "SHUT UP",
+      "lines": [
+        "SHUT UP"
+      ],
+      "bbox": [
+        0.2931,
+        0.268,
+        0.1458,
+        0.0547
+      ],
+      "style": {
+        "fill_name": "cyan",
+        "fill": "#abe4ec",
+        "multicolor": true,
+        "highlight_name": "brown",
+        "weight": 0.08
+      },
+      "style_zh": "cyan text, keywords highlighted in brown, line height 1.9% (about 36px)",
+      "anim_in": null,
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": true,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_035",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 8.5,
+      "t1": 9.6,
+      "text": "Nicole James·2h",
+      "lines": [
+        "Nicole James·2h"
+      ],
+      "bbox": [
+        0.2806,
+        0.3711,
+        0.2903,
+        0.0593
+      ],
+      "style": {
+        "fill_name": "black",
+        "fill": "#24111b",
+        "weight": 0.076
+      },
+      "style_zh": "black text, line height 1.9% (about 37px)",
+      "anim_in": null,
+      "anim_out": {
+        "kind": "fade_out",
+        "kind_zh": "fade out"
+      },
+      "mid_motion": true,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_036",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 8.5,
+      "t1": 9.6,
+      "text": "PLEASESTOP",
+      "lines": [
+        "PLEASESTOP"
+      ],
+      "bbox": [
+        0.2806,
+        0.393,
+        0.2264,
+        0.0617
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f9fcfd",
+        "stroke_name": "black",
+        "stroke": "#26131a",
+        "stroke_ratio": 0.04,
+        "weight": 0.295
+      },
+      "style_zh": "white text, black outline, bold, line height 1.9% (about 37px)",
+      "anim_in": null,
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": true,
+      "follows": true,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_038",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 8.4,
+      "t1": 8.6,
+      "text": "TO ALL",
+      "lines": [
+        "TO ALL"
+      ],
+      "bbox": [
+        0.3625,
+        0.5211,
+        0.2778,
+        0.0383
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f8fbfa",
+        "stroke_name": "grey",
+        "stroke": "#8e969a",
+        "stroke_ratio": 0.043,
+        "weight": 0.195
+      },
+      "style_zh": "white text, grey outline, line height 3.8% (about 74px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_039",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 8.9,
+      "t1": 9.1,
+      "text": "SOCIAL",
+      "lines": [
+        "SOCIAL"
+      ],
+      "bbox": [
+        0.3486,
+        0.5227,
+        0.3,
+        0.0359
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f6fcfa",
+        "stroke_name": "grey",
+        "stroke": "#979da1",
+        "stroke_ratio": 0.04,
+        "weight": 0.208
+      },
+      "style_zh": "white text, grey outline, bold, line height 3.6% (about 69px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_041",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 9.5,
+      "t1": 10.3,
+      "text": "PLATFORMS.",
+      "lines": [
+        "PLATFORMS."
+      ],
+      "bbox": [
+        0.25,
+        0.5242,
+        0.4958,
+        0.0328
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#fafcfc",
+        "stroke_name": "grey",
+        "stroke": "#a0a5a9",
+        "stroke_ratio": 0.038,
+        "weight": 0.227
+      },
+      "style_zh": "white text, grey outline, bold, line height 3.3% (about 63px)",
+      "anim_in": null,
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_042",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 10.0,
+      "t1": 10.1,
+      "text": "stop saying this",
+      "lines": [
+        "stop saying this"
+      ],
+      "bbox": [
+        0.3014,
+        0.1922,
+        0.2292,
+        0.0195
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#fafcfc",
+        "weight": 0.153
+      },
+      "style_zh": "white text, line height 1.9% (about 37px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_043",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 10.0,
+      "t1": 10.1,
+      "text": "Sara Miller · 2h",
+      "lines": [
+        "Sara Miller · 2h"
+      ],
+      "bbox": [
+        0.2986,
+        0.2297,
+        0.2292,
+        0.0195
+      ],
+      "style": {
+        "fill_name": "black",
+        "fill": "#20121c",
+        "weight": 0.076
+      },
+      "style_zh": "black text, line height 1.9% (about 37px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_044",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 10.0,
+      "t1": 10.1,
+      "text": "SHUT UP",
+      "lines": [
+        "SHUT UP"
+      ],
+      "bbox": [
+        0.2986,
+        0.2508,
+        0.1403,
+        0.018
+      ],
+      "style": {
+        "fill_name": "red",
+        "fill": "#924541",
+        "multicolor": true,
+        "highlight_name": "cyan",
+        "weight": 0.083
+      },
+      "style_zh": "red text, keywords highlighted in cyan, line height 1.8% (about 35px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_045",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 9.9,
+      "t1": 10.1,
+      "text": "Kyle Anderson· 2h",
+      "lines": [
+        "Kyle Anderson· 2h"
+      ],
+      "bbox": [
+        0.2931,
+        0.2883,
+        0.2917,
+        0.0211
+      ],
+      "style": {
+        "fill_name": "black",
+        "fill": "#1f1520",
+        "weight": 0.071
+      },
+      "style_zh": "black text, line height 2.1% (about 41px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_049",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 9.9,
+      "t1": 10.1,
+      "text": "BrianMoore·2h",
+      "lines": [
+        "BrianMoore·2h"
+      ],
+      "bbox": [
+        0.2806,
+        0.4188,
+        0.2708,
+        0.0195
+      ],
+      "style": {
+        "fill_name": "black",
+        "fill": "#24111b",
+        "weight": 0.076
+      },
+      "style_zh": "black text, line height 1.9% (about 37px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_050",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 9.8,
+      "t1": 10.2,
+      "text": "KevinBrown·2h",
+      "lines": [
+        "KevinBrown·2h"
+      ],
+      "bbox": [
+        0.275,
+        0.4883,
+        0.2875,
+        0.0211
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#dde4e7",
+        "weight": 0.141
+      },
+      "style_zh": "white text, line height 2.1% (about 41px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_051",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 10.3,
+      "t1": 10.6,
+      "text": "FIVE",
+      "lines": [
+        "FIVE"
+      ],
+      "bbox": [
+        0.4042,
+        0.6102,
+        0.1931,
+        0.0422
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f8fcf6",
+        "stroke_name": "blue",
+        "stroke": "#7b8496",
+        "stroke_ratio": 0.036,
+        "weight": 0.177
+      },
+      "style_zh": "white text, blue outline, line height 4.2% (about 81px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_052",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 10.8,
+      "t1": 11.1,
+      "text": "AFTER",
+      "lines": [
+        "AFTER"
+      ],
+      "bbox": [
+        0.3625,
+        0.6109,
+        0.2736,
+        0.0406
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f0f9f5",
+        "stroke_name": "grey",
+        "stroke": "#78737b",
+        "stroke_ratio": 0.031,
+        "weight": 0.184
+      },
+      "style_zh": "white text, grey outline, line height 4.1% (about 78px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_053",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 11.4,
+      "t1": 11.7,
+      "text": "IS",
+      "lines": [
+        "IS"
+      ],
+      "bbox": [
+        0.4583,
+        0.6102,
+        0.0903,
+        0.0445
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#eff8f4",
+        "stroke_name": "blue",
+        "stroke": "#8698ab",
+        "stroke_ratio": 0.022,
+        "weight": 0.168
+      },
+      "style_zh": "white text, blue outline, line height 4.5% (about 85px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_054",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 11.8,
+      "t1": 12.2,
+      "text": "IT",
+      "lines": [
+        "IT"
+      ],
+      "bbox": [
+        0.4611,
+        0.6117,
+        0.0847,
+        0.0422
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f1f8f4",
+        "stroke_name": "blue",
+        "stroke": "#808f9f",
+        "stroke_ratio": 0.026,
+        "weight": 0.18
+      },
+      "style_zh": "white text, blue outline, line height 4.2% (about 81px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_057",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 12.5,
+      "t1": 16.1,
+      "text": "Play Man in the box",
+      "lines": [
+        "Play Man in the box"
+      ],
+      "bbox": [
+        0.3486,
+        0.4523,
+        0.2764,
+        0.0313
+      ],
+      "style": {
+        "fill": "#d4dbe1",
+        "fill_name": "white",
+        "weight": 0.046
+      },
+      "style_zh": "white text, line height 2.9% (about 55px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_058",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 12.5,
+      "t1": 16.1,
+      "text": "GET:https://api.spotify.com/v...",
+      "lines": [
+        "GET:https://api.spotify.com/v..."
+      ],
+      "bbox": [
+        0.3,
+        0.4734,
+        0.3653,
+        0.0344
+      ],
+      "style": {
+        "highlight_timing": "spoken",
+        "fill": "#8e8f96",
+        "fill_name": "grey",
+        "weight": 0.041
+      },
+      "style_zh": "grey text, line height 3.2% (about 61px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_066",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 16.1,
+      "t1": 16.7,
+      "text": "WILL",
+      "lines": [
+        "WILL"
+      ],
+      "bbox": [
+        0.4042,
+        0.6133,
+        0.1986,
+        0.0367
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f7fcf8",
+        "stroke_name": "blue",
+        "stroke": "#7a8899",
+        "stroke_ratio": 0.035,
+        "weight": 0.203
+      },
+      "style_zh": "white text, blue outline, bold, line height 3.7% (about 70px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_067",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 16.8,
+      "t1": 17.3,
+      "text": "REPLY",
+      "lines": [
+        "REPLY"
+      ],
+      "bbox": [
+        0.3736,
+        0.6133,
+        0.2639,
+        0.0367
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f8fcf6",
+        "stroke_name": "blue",
+        "stroke": "#7f8798",
+        "stroke_ratio": 0.039,
+        "weight": 0.203
+      },
+      "style_zh": "white text, blue outline, bold, line height 3.7% (about 70px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "slide_out",
+        "kind_zh": "slide out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_068",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 17.5,
+      "t1": 17.6,
+      "text": "EVERY",
+      "lines": [
+        "EVERY"
+      ],
+      "bbox": [
+        0.3653,
+        0.6133,
+        0.2667,
+        0.0367
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f7faf5",
+        "stroke_name": "blue",
+        "stroke": "#7f889a",
+        "stroke_ratio": 0.036,
+        "weight": 0.203
+      },
+      "style_zh": "white text, blue outline, bold, line height 3.7% (about 70px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_075",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 18.0,
+      "t1": 19.6,
+      "text": "Read8:07PM",
+      "lines": [
+        "Read8:07PM"
+      ],
+      "bbox": [
+        0.7181,
+        0.4242,
+        0.1555,
+        0.0461
+      ],
+      "style": {
+        "highlight_timing": "spoken",
+        "fill": "#a8a2ad",
+        "fill_name": "grey",
+        "weight": 0.031
+      },
+      "style_zh": "grey text, line height 2.1% (about 40px)",
+      "anim_in": {
+        "kind": "pop",
+        "kind_zh": "scale pop"
+      },
+      "anim_out": {
+        "kind": "fade_out",
+        "kind_zh": "fade out"
+      },
+      "mid_motion": true,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_076",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 17.9,
+      "t1": 18.2,
+      "text": "WITH",
+      "lines": [
+        "WITH"
+      ],
+      "bbox": [
+        0.4014,
+        0.6133,
+        0.2083,
+        0.0367
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#fbfcfd",
+        "multicolor": true,
+        "highlight_name": "grey",
+        "weight": 0.203
+      },
+      "style_zh": "white text, keywords highlighted in grey, bold, line height 3.7% (about 70px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_070",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 18.0,
+      "t1": 19.6,
+      "text": "Today 8:07 PM",
+      "lines": [
+        "Today 8:07 PM"
+      ],
+      "bbox": [
+        0.3778,
+        0.2352,
+        0.1833,
+        0.0562
+      ],
+      "style": {
+        "fill": "#b49dab",
+        "fill_name": "grey",
+        "weight": 0.018
+      },
+      "style_zh": "grey text, line height 3.0% (about 59px)",
+      "anim_in": {
+        "kind": "pop",
+        "kind_zh": "scale pop"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": true,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_079",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 19.0,
+      "t1": 19.6,
+      "text": "三",
+      "lines": [
+        "三"
+      ],
+      "bbox": [
+        0.5889,
+        0.1,
+        0.0903,
+        0.0304
+      ],
+      "style": {
+        "fill": "#363643",
+        "fill_name": "grey",
+        "gradient": true,
+        "weight": 0.094
+      },
+      "style_zh": "grey text, gradient, line height 2.4% (about 46px)",
+      "anim_in": {
+        "kind": "fade",
+        "kind_zh": "fade in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_081",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 19.8,
+      "t1": 20.2,
+      "text": "THIS WILL",
+      "lines": [
+        "THIS WILL"
+      ],
+      "bbox": [
+        0.3014,
+        0.5266,
+        0.3986,
+        0.0383
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f8fbfa",
+        "stroke_name": "grey",
+        "stroke": "#acaab0",
+        "stroke_ratio": 0.031,
+        "weight": 0.195
+      },
+      "style_zh": "white text, grey outline, line height 3.8% (about 74px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_082",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 20.0,
+      "t1": 20.6,
+      "text": "Beer & Cig Farmer/GET: https://api.doordash.com..",
+      "lines": [
+        "Beer & Cig Farmer",
+        "GET: https://api.doordash.com.."
+      ],
+      "bbox": [
+        0.2083,
+        0.7594,
+        0.5056,
+        0.0641
+      ],
+      "style": {
+        "fill": "#e1e5e6",
+        "fill_name": "white",
+        "weight": 0.031
+      },
+      "style_zh": "white text, line height 3.2% (about 62px)",
+      "anim_in": {
+        "kind": "pop",
+        "kind_zh": "scale pop"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_085",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 21.0,
+      "t1": 22.4,
+      "text": "Beer & Cig Farmer",
+      "lines": [
+        "Beer & Cig Farmer"
+      ],
+      "bbox": [
+        0.2833,
+        0.7602,
+        0.3639,
+        0.0305
+      ],
+      "style": {
+        "fill": "#e6ecec",
+        "fill_name": "white",
+        "weight": 0.065
+      },
+      "style_zh": "white text, line height 3.0% (about 57px)",
+      "anim_in": {
+        "kind": "slide",
+        "kind_zh": "slide in"
+      },
+      "anim_out": {
+        "kind": "fade_out",
+        "kind_zh": "fade out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_088",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 21.0,
+      "t1": 22.8,
+      "text": "2",
+      "lines": [
+        "2"
+      ],
+      "bbox": [
+        0.5111,
+        0.032,
+        0.0292,
+        0.025
+      ],
+      "style": {
+        "fill": "#a8a7ab",
+        "fill_name": "grey",
+        "weight": 0.04
+      },
+      "style_zh": "grey text, line height 2.4% (about 46px)",
+      "anim_in": null,
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_091",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 23.0,
+      "t1": 23.5,
+      "text": "AUTOMATICALLY",
+      "lines": [
+        "AUTOMATICALLY"
+      ],
+      "bbox": [
+        0.1722,
+        0.6164,
+        0.6569,
+        0.0305
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f7fcf8",
+        "stroke_name": "grey",
+        "stroke": "#82838e",
+        "stroke_ratio": 0.048,
+        "weight": 0.245
+      },
+      "style_zh": "white text, grey outline, bold, line height 3.0% (about 59px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "pop_out",
+        "kind_zh": "shrink out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_092",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 23.1,
+      "t1": 23.6,
+      "text": "TIME",
+      "lines": [
+        "TIME"
+      ],
+      "bbox": [
+        0.4042,
+        0.6102,
+        0.2,
+        0.0422
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f2f9f5",
+        "stroke_name": "grey",
+        "stroke": "#736f7b",
+        "stroke_ratio": 0.03,
+        "weight": 0.188
+      },
+      "style_zh": "white text, grey outline, line height 4.2% (about 81px)",
+      "anim_in": {
+        "kind": "fade",
+        "kind_zh": "fade in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_093",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 23.9,
+      "t1": 24.1,
+      "text": "WHEN",
+      "lines": [
+        "WHEN"
+      ],
+      "bbox": [
+        0.3806,
+        0.6133,
+        0.2458,
+        0.0367
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f4fbf7",
+        "stroke_name": "blue",
+        "stroke": "#7f8b9f",
+        "stroke_ratio": 0.033,
+        "weight": 0.215
+      },
+      "style_zh": "white text, blue outline, bold, line height 3.7% (about 70px)",
+      "anim_in": null,
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_094",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 24.4,
+      "t1": 24.6,
+      "text": "CIGARETS",
+      "lines": [
+        "CIGARETS"
+      ],
+      "bbox": [
+        0.3014,
+        0.6148,
+        0.4,
+        0.0336
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f7fcf8",
+        "stroke_name": "grey",
+        "stroke": "#888c9c",
+        "stroke_ratio": 0.033,
+        "weight": 0.222
+      },
+      "style_zh": "white text, grey outline, bold, line height 3.4% (about 65px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_095",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 24.7,
+      "t1": 25.2,
+      "text": "ARRIVES",
+      "lines": [
+        "ARRIVES"
+      ],
+      "bbox": [
+        0.3042,
+        0.6117,
+        0.375,
+        0.0391
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f7fcf8",
+        "stroke_name": "grey",
+        "stroke": "#7f8595",
+        "stroke_ratio": 0.036,
+        "weight": 0.191
+      },
+      "style_zh": "white text, grey outline, line height 3.9% (about 75px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_096",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 25.2,
+      "t1": 25.7,
+      "text": "THE",
+      "lines": [
+        "THE"
+      ],
+      "bbox": [
+        0.4208,
+        0.6109,
+        0.1681,
+        0.0406
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f0f9f5",
+        "stroke_name": "blue",
+        "stroke": "#8497ab",
+        "stroke_ratio": 0.025,
+        "weight": 0.184
+      },
+      "style_zh": "white text, blue outline, line height 4.1% (about 78px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_097",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 26.0,
+      "t1": 28.5,
+      "text": "Uber Black to Casino",
+      "lines": [
+        "Uber Black to Casino"
+      ],
+      "bbox": [
+        0.3556,
+        0.2594,
+        0.2805,
+        0.018
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#bfcdd2",
+        "weight": 0.087
+      },
+      "style_zh": "white text, line height 1.7% (about 33px)",
+      "anim_in": {
+        "kind": "pop",
+        "kind_zh": "scale pop"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_099",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 26.0,
+      "t1": 27.0,
+      "text": "Nait",
+      "lines": [
+        "Nait"
+      ],
+      "bbox": [
+        0.1097,
+        0.2609,
+        0.0528,
+        0.0164
+      ],
+      "style": {
+        "fill_name": "grey",
+        "fill": "#96969c",
+        "stroke_name": "grey",
+        "stroke": "#6d6e75",
+        "stroke_ratio": 0.07,
+        "weight": 0.163
+      },
+      "style_zh": "grey text, grey outline, line height 1.4% (about 26px)",
+      "anim_in": {
+        "kind": "pop",
+        "kind_zh": "scale pop"
+      },
+      "anim_out": {
+        "kind": "pop_out",
+        "kind_zh": "shrink out"
+      },
+      "mid_motion": true,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_098",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 26.0,
+      "t1": 28.5,
+      "text": "Waiti",
+      "lines": [
+        "Waiti"
+      ],
+      "bbox": [
+        0.7847,
+        0.2602,
+        0.093,
+        0.0188
+      ],
+      "style": {
+        "fill_name": "grey",
+        "fill": "#96969c",
+        "weight": 0.159
+      },
+      "style_zh": "grey text, line height 1.6% (about 31px)",
+      "anim_in": {
+        "kind": "reveal",
+        "kind_zh": "type-on"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_101",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 25.9,
+      "t1": 26.2,
+      "text": "API",
+      "lines": [
+        "API"
+      ],
+      "bbox": [
+        0.4236,
+        0.5188,
+        0.1542,
+        0.0414
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f8fbfa",
+        "stroke_name": "grey",
+        "stroke": "#949fa2",
+        "stroke_ratio": 0.034,
+        "weight": 0.18
+      },
+      "style_zh": "white text, grey outline, line height 4.1% (about 79px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": null,
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_102",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 26.2,
+      "t1": 26.7,
+      "text": "ORDERS",
+      "lines": [
+        "ORDERS"
+      ],
+      "bbox": [
+        0.3347,
+        0.5234,
+        0.3333,
+        0.0328
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f8fbfa",
+        "stroke_name": "grey",
+        "stroke": "#99a1a5",
+        "stroke_ratio": 0.039,
+        "weight": 0.227
+      },
+      "style_zh": "white text, grey outline, bold, line height 3.3% (about 63px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_103",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 26.9,
+      "t1": 27.1,
+      "text": "UBER",
+      "lines": [
+        "UBER"
+      ],
+      "bbox": [
+        0.3917,
+        0.5195,
+        0.2208,
+        0.0383
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#fafcfc",
+        "stroke_name": "grey",
+        "stroke": "#9fa7aa",
+        "stroke_ratio": 0.032,
+        "weight": 0.195
+      },
+      "style_zh": "white text, grey outline, line height 3.8% (about 74px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_104",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 27.3,
+      "t1": 27.7,
+      "text": "TO THE",
+      "lines": [
+        "TO THE"
+      ],
+      "bbox": [
+        0.3583,
+        0.5203,
+        0.2917,
+        0.0383
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f8fbfa",
+        "stroke_name": "grey",
+        "stroke": "#979ea0",
+        "stroke_ratio": 0.036,
+        "weight": 0.195
+      },
+      "style_zh": "white text, grey outline, line height 3.8% (about 74px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_105",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 27.9,
+      "t1": 28.5,
+      "text": "CASINO.",
+      "lines": [
+        "CASINO."
+      ],
+      "bbox": [
+        0.3347,
+        0.5227,
+        0.325,
+        0.0336
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#fafcfc",
+        "stroke_name": "grey",
+        "stroke": "#9da5a8",
+        "stroke_ratio": 0.033,
+        "weight": 0.222
+      },
+      "style_zh": "white text, grey outline, bold, line height 3.4% (about 65px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_106",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 28.5,
+      "t1": 28.8,
+      "text": "DURING",
+      "lines": [
+        "DURING"
+      ],
+      "bbox": [
+        0.3431,
+        0.6125,
+        0.3194,
+        0.0383
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f8fcf6",
+        "stroke_name": "blue",
+        "stroke": "#858fa0",
+        "stroke_ratio": 0.027,
+        "weight": 0.195
+      },
+      "style_zh": "white text, blue outline, line height 3.8% (about 74px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_107",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 28.8,
+      "t1": 29.1,
+      "text": "TO THE.",
+      "lines": [
+        "TO THE."
+      ],
+      "bbox": [
+        0.3556,
+        0.6102,
+        0.3056,
+        0.0422
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f3faf6",
+        "stroke_name": "grey",
+        "stroke": "#787b89",
+        "stroke_ratio": 0.035,
+        "weight": 0.177
+      },
+      "style_zh": "white text, grey outline, line height 4.2% (about 81px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_108",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 29.3,
+      "t1": 29.9,
+      "text": "CASINO,",
+      "lines": [
+        "CASINO,"
+      ],
+      "bbox": [
+        0.3319,
+        0.6102,
+        0.3264,
+        0.0422
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f3faf6",
+        "stroke_name": "grey",
+        "stroke": "#79757f",
+        "stroke_ratio": 0.03,
+        "weight": 0.177
+      },
+      "style_zh": "white text, grey outline, line height 4.2% (about 81px)",
+      "anim_in": null,
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_109",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 29.9,
+      "t1": 30.1,
+      "text": "DIFFERENT",
+      "lines": [
+        "DIFFERENT"
+      ],
+      "bbox": [
+        0.2861,
+        0.6141,
+        0.4361,
+        0.0352
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f7fcf8",
+        "stroke_name": "blue",
+        "stroke": "#7f8b9f",
+        "stroke_ratio": 0.031,
+        "weight": 0.212
+      },
+      "style_zh": "white text, blue outline, bold, line height 3.5% (about 68px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_110",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 30.4,
+      "t1": 30.7,
+      "text": "WILL",
+      "lines": [
+        "WILL"
+      ],
+      "bbox": [
+        0.4028,
+        0.6117,
+        0.1917,
+        0.0391
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f7faf5",
+        "stroke_name": "grey",
+        "stroke": "#787887",
+        "stroke_ratio": 0.04,
+        "weight": 0.191
+      },
+      "style_zh": "white text, grey outline, line height 3.9% (about 75px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_111",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 31.0,
+      "t1": 32.1,
+      "text": "Black to Casino",
+      "lines": [
+        "Black to Casino"
+      ],
+      "bbox": [
+        0.3875,
+        0.2453,
+        0.2848,
+        0.0422
+      ],
+      "style": {
+        "fill": "#88888e",
+        "fill_name": "grey",
+        "weight": 0.08
+      },
+      "style_zh": "grey text, line height 3.8% (about 72px)",
+      "anim_in": {
+        "kind": "pop",
+        "kind_zh": "scale pop"
+      },
+      "anim_out": {
+        "kind": "pop_out",
+        "kind_zh": "shrink out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_112",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 31.0,
+      "t1": 32.1,
+      "text": "https://api.uber.com/v1/r..",
+      "lines": [
+        "https://api.uber.com/v1/r.."
+      ],
+      "bbox": [
+        0.3208,
+        0.2688,
+        0.3695,
+        0.043
+      ],
+      "style": {
+        "fill": "#6d6d73",
+        "fill_name": "grey",
+        "stroke": "#4d4b50",
+        "stroke_name": "grey",
+        "stroke_ratio": 0.01,
+        "weight": 0.047
+      },
+      "style_zh": "grey text, grey outline, line height 3.9% (about 75px)",
+      "anim_in": {
+        "kind": "pop",
+        "kind_zh": "scale pop"
+      },
+      "anim_out": {
+        "kind": "fade_out",
+        "kind_zh": "fade out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_116",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 30.8,
+      "t1": 31.1,
+      "text": "FIRST,",
+      "lines": [
+        "FIRST,"
+      ],
+      "bbox": [
+        0.3708,
+        0.6086,
+        0.2528,
+        0.0469
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f8fcf6",
+        "stroke_name": "blue",
+        "stroke": "#7c8ca1",
+        "stroke_ratio": 0.024,
+        "weight": 0.159
+      },
+      "style_zh": "white text, blue outline, line height 4.7% (about 90px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_119",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 32.5,
+      "t1": 32.6,
+      "text": "ack to Casino///api.uber.com/v1/r.",
+      "lines": [
+        "ack to Casino",
+        "//api.uber.com/v1/r."
+      ],
+      "bbox": [
+        0.3514,
+        0.2445,
+        0.2431,
+        0.0602
+      ],
+      "style": {
+        "fill": "#83868a",
+        "fill_name": "grey",
+        "weight": 0.13
+      },
+      "style_zh": "grey text, line height 3.3% (about 64px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_123",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 33.0,
+      "t1": 35.1,
+      "text": "POST:bp",
+      "lines": [
+        "POST:bp"
+      ],
+      "bbox": [
+        0.7611,
+        0.3594,
+        0.1653,
+        0.0219
+      ],
+      "style": {
+        "fill": "#8f8e95",
+        "fill_name": "grey",
+        "weight": 0.065
+      },
+      "style_zh": "grey text, line height 2.1% (about 41px)",
+      "anim_in": {
+        "kind": "pop",
+        "kind_zh": "scale pop"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_124",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 33.0,
+      "t1": 35.1,
+      "text": "ge Calculator",
+      "lines": [
+        "ge Calculator"
+      ],
+      "bbox": [
+        0.0458,
+        0.4742,
+        0.214,
+        0.0258
+      ],
+      "style": {
+        "fill": "#c7c7cd",
+        "fill_name": "white",
+        "weight": 0.076
+      },
+      "style_zh": "white text, line height 2.4% (about 46px)",
+      "anim_in": {
+        "kind": "reveal",
+        "kind_zh": "type-on"
+      },
+      "anim_out": null,
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_125",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 33.0,
+      "t1": 35.7,
+      "text": "FlexWins on Socials",
+      "lines": [
+        "FlexWins on Socials"
+      ],
+      "bbox": [
+        0.3222,
+        0.4766,
+        0.3486,
+        0.0273
+      ],
+      "style": {
+        "fill": "#d8dae2",
+        "fill_name": "white",
+        "weight": 0.073
+      },
+      "style_zh": "white text, line height 2.7% (about 52px)",
+      "anim_in": {
+        "kind": "fade",
+        "kind_zh": "fade in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_134",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 35.2,
+      "t1": 35.7,
+      "text": "als",
+      "lines": [
+        "als"
+      ],
+      "bbox": [
+        0.0417,
+        0.4562,
+        0.0417,
+        0.0148
+      ],
+      "style": {
+        "fill_name": "grey",
+        "fill": "#8b8b91",
+        "stroke_name": "grey",
+        "stroke": "#a2a3a8",
+        "stroke_ratio": 0.039,
+        "weight": 0.201
+      },
+      "style_zh": "grey text, grey outline, bold, line height 1.5% (about 28px)",
+      "anim_in": null,
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_144",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 37.4,
+      "t1": 37.7,
+      "text": "YOU ARE",
+      "lines": [
+        "YOU ARE"
+      ],
+      "bbox": [
+        0.3278,
+        0.6133,
+        0.3528,
+        0.0359
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f7fcf8",
+        "stroke_name": "grey",
+        "stroke": "#81838f",
+        "stroke_ratio": 0.042,
+        "weight": 0.208
+      },
+      "style_zh": "white text, grey outline, bold, line height 3.6% (about 69px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_145",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 38.0,
+      "t1": 38.4,
+      "text": "SPORTS",
+      "lines": [
+        "SPORTS"
+      ],
+      "bbox": [
+        0.3361,
+        0.6148,
+        0.3306,
+        0.0336
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f8fcf6",
+        "stroke_name": "blue",
+        "stroke": "#808ca0",
+        "stroke_ratio": 0.032,
+        "weight": 0.222
+      },
+      "style_zh": "white text, blue outline, bold, line height 3.4% (about 65px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_146",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 38.5,
+      "t1": 38.6,
+      "text": "Fla",
+      "lines": [
+        "Fla"
+      ],
+      "bbox": [
+        0.9542,
+        0.1711,
+        0.0444,
+        0.0172
+      ],
+      "style": {
+        "fill_name": "grey",
+        "fill": "#3a383d",
+        "stroke_name": "grey",
+        "stroke": "#b7b5bc",
+        "stroke_ratio": 0.061,
+        "weight": 0.087
+      },
+      "style_zh": "grey text, grey outline, line height 1.7% (about 33px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_147",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 37.5,
+      "t1": 38.7,
+      "text": "Lowball Algorithm",
+      "lines": [
+        "Lowball Algorithm"
+      ],
+      "bbox": [
+        0.7167,
+        0.1727,
+        0.1986,
+        0.025
+      ],
+      "style": {
+        "fill_name": "grey",
+        "fill": "#9d9ea3",
+        "multicolor": true,
+        "highlight_name": "black",
+        "weight": 0.06
+      },
+      "style_zh": "grey text, keywords highlighted in black, line height 2.5% (about 48px)",
+      "anim_in": null,
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_148",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 38.5,
+      "t1": 38.6,
+      "text": "Itemfilter",
+      "lines": [
+        "Itemfilter"
+      ],
+      "bbox": [
+        0.5875,
+        0.1812,
+        0.0972,
+        0.0195
+      ],
+      "style": {
+        "fill_name": "grey",
+        "fill": "#abaeb3",
+        "weight": 0.076
+      },
+      "style_zh": "grey text, line height 1.9% (about 37px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_149",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 38.5,
+      "t1": 38.6,
+      "text": "Data Normalizer",
+      "lines": [
+        "Data Normalizer"
+      ],
+      "bbox": [
+        0.375,
+        0.1883,
+        0.1361,
+        0.0195
+      ],
+      "style": {
+        "fill_name": "grey",
+        "fill": "#67656b",
+        "multicolor": true,
+        "highlight_name": "grey",
+        "weight": 0.076
+      },
+      "style_zh": "grey text, keywords highlighted in grey, line height 1.9% (about 37px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_155",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 39.0,
+      "t1": 39.1,
+      "text": "Messag",
+      "lines": [
+        "Messag"
+      ],
+      "bbox": [
+        0.9111,
+        0.1727,
+        0.0875,
+        0.0164
+      ],
+      "style": {
+        "fill_name": "grey",
+        "fill": "#bfbdc3",
+        "weight": 0.091
+      },
+      "style_zh": "grey text, line height 1.6% (about 31px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_156",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 39.0,
+      "t1": 39.1,
+      "text": "FlawDetection",
+      "lines": [
+        "FlawDetection"
+      ],
+      "bbox": [
+        0.7083,
+        0.175,
+        0.1597,
+        0.0211
+      ],
+      "style": {
+        "fill_name": "grey",
+        "fill": "#757378",
+        "multicolor": true,
+        "highlight_name": "grey",
+        "weight": 0.071
+      },
+      "style_zh": "grey text, keywords highlighted in grey, line height 2.1% (about 41px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_157",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 39.0,
+      "t1": 39.1,
+      "text": "Lowball Algorithm",
+      "lines": [
+        "Lowball Algorithm"
+      ],
+      "bbox": [
+        0.5069,
+        0.1812,
+        0.1722,
+        0.0234
+      ],
+      "style": {
+        "fill_name": "grey",
+        "fill": "#818186",
+        "weight": 0.064
+      },
+      "style_zh": "grey text, line height 2.3% (about 45px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_158",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 39.0,
+      "t1": 39.1,
+      "text": "Item filter",
+      "lines": [
+        "Item filter"
+      ],
+      "bbox": [
+        0.3986,
+        0.1883,
+        0.0875,
+        0.0195
+      ],
+      "style": {
+        "fill_name": "grey",
+        "fill": "#90989c",
+        "weight": 0.076
+      },
+      "style_zh": "grey text, line height 1.9% (about 37px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_159",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 39.0,
+      "t1": 39.1,
+      "text": "Data Normalizer",
+      "lines": [
+        "Data Normalizer"
+      ],
+      "bbox": [
+        0.2167,
+        0.1945,
+        0.1167,
+        0.0172
+      ],
+      "style": {
+        "fill_name": "grey",
+        "fill": "#5f5e66",
+        "multicolor": true,
+        "highlight_name": "grey",
+        "weight": 0.087
+      },
+      "style_zh": "grey text, keywords highlighted in grey, line height 1.7% (about 33px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_163",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 38.8,
+      "t1": 39.2,
+      "text": "TO MY",
+      "lines": [
+        "TO MY"
+      ],
+      "bbox": [
+        0.3778,
+        0.5188,
+        0.2528,
+        0.0359
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#fafcfc",
+        "stroke_name": "grey",
+        "stroke": "#92999f",
+        "stroke_ratio": 0.041,
+        "weight": 0.22
+      },
+      "style_zh": "white text, grey outline, bold, line height 3.6% (about 69px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_164",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 39.5,
+      "t1": 39.6,
+      "text": "二",
+      "lines": [
+        "二"
+      ],
+      "bbox": [
+        0.2653,
+        0.1477,
+        0.0375,
+        0.0219
+      ],
+      "style": {
+        "fill_name": "green",
+        "fill": "#43ca81",
+        "box": true,
+        "box_name": "grey",
+        "box_color": "#494a4e",
+        "weight": 0.205
+      },
+      "style_zh": "green text, grey box, bold, line height 2.2% (about 42px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_169",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 39.5,
+      "t1": 39.6,
+      "text": "place scraper",
+      "lines": [
+        "place scraper"
+      ],
+      "bbox": [
+        0.0,
+        0.2039,
+        0.0778,
+        0.0148
+      ],
+      "style": {
+        "fill_name": "grey",
+        "fill": "#78787d",
+        "weight": 0.101
+      },
+      "style_zh": "grey text, line height 1.5% (about 28px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_174",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 39.5,
+      "t1": 39.9,
+      "text": "FACEBOOK",
+      "lines": [
+        "FACEBOOK"
+      ],
+      "bbox": [
+        0.2889,
+        0.5219,
+        0.4292,
+        0.0305
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#fafcfc",
+        "stroke_name": "grey",
+        "stroke": "#a7a6aa",
+        "stroke_ratio": 0.034,
+        "weight": 0.245
+      },
+      "style_zh": "white text, grey outline, bold, line height 3.0% (about 59px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_175",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 40.0,
+      "t1": 40.6,
+      "text": "Data Normalizer",
+      "lines": [
+        "Data Normalizer"
+      ],
+      "bbox": [
+        0.0,
+        0.2023,
+        0.1167,
+        0.0164
+      ],
+      "style": {
+        "fill_name": "grey",
+        "fill": "#78787d",
+        "weight": 0.12
+      },
+      "style_zh": "grey text, line height 1.5% (about 29px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": null,
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_177",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 39.9,
+      "t1": 40.3,
+      "text": "MARKETPLACE",
+      "lines": [
+        "MARKETPLACE"
+      ],
+      "bbox": [
+        0.2042,
+        0.5219,
+        0.5958,
+        0.0305
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#fafcfc",
+        "stroke_name": "grey",
+        "stroke": "#a2a2a6",
+        "stroke_ratio": 0.035,
+        "weight": 0.245
+      },
+      "style_zh": "white text, grey outline, bold, line height 3.0% (about 59px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_180",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 40.5,
+      "t1": 41.3,
+      "text": "AUTOMATION",
+      "lines": [
+        "AUTOMATION"
+      ],
+      "bbox": [
+        0.2375,
+        0.5219,
+        0.5264,
+        0.0305
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f8fbfa",
+        "stroke_name": "grey",
+        "stroke": "#989fa5",
+        "stroke_ratio": 0.036,
+        "weight": 0.245
+      },
+      "style_zh": "white text, grey outline, bold, line height 3.0% (about 59px)",
+      "anim_in": null,
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_183",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 40.9,
+      "t1": 41.2,
+      "text": "Lowball Algorithm",
+      "lines": [
+        "Lowball Algorithm"
+      ],
+      "bbox": [
+        0.1833,
+        0.1938,
+        0.1306,
+        0.0211
+      ],
+      "style": {
+        "fill_name": "grey",
+        "fill": "#7d7d82",
+        "weight": 0.071
+      },
+      "style_zh": "grey text, line height 2.1% (about 41px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_184",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 40.9,
+      "t1": 41.4,
+      "text": "ormalizer",
+      "lines": [
+        "ormalizer"
+      ],
+      "bbox": [
+        0.0,
+        0.2031,
+        0.0556,
+        0.0164
+      ],
+      "style": {
+        "fill_name": "grey",
+        "fill": "#97979d",
+        "weight": 0.182
+      },
+      "style_zh": "grey text, line height 1.6% (about 31px)",
+      "anim_in": null,
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_186",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 41.0,
+      "t1": 41.1,
+      "text": "sendMe",
+      "lines": [
+        "sendMe"
+      ],
+      "bbox": [
+        0.4764,
+        0.4367,
+        0.0514,
+        0.0109
+      ],
+      "style": {
+        "fill_name": "grey",
+        "fill": "#8b8b91",
+        "weight": 0.136,
+        "stroke_name": "grey",
+        "stroke": "#a2a3a8",
+        "stroke_ratio": 0.039
+      },
+      "style_zh": "grey text, grey outline, line height 1.1% (about 21px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_187",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 41.5,
+      "t1": 43.7,
+      "text": "2015Harley-DavidsonSportster883",
+      "lines": [
+        "2015Harley-DavidsonSportster883"
+      ],
+      "bbox": [
+        0.0208,
+        0.0633,
+        0.7389,
+        0.039
+      ],
+      "style": {
+        "fill_name": "black",
+        "fill": "#06090d",
+        "weight": 0.125
+      },
+      "style_zh": "black text, line height 2.4% (about 46px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": true,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_189",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 41.5,
+      "t1": 43.7,
+      "text": "Listed 19 daysago·Auburn,WA",
+      "lines": [
+        "Listed 19 daysago·Auburn,WA"
+      ],
+      "bbox": [
+        0.0167,
+        0.1242,
+        0.4417,
+        0.0375
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#fdfeff",
+        "stroke_name": "grey",
+        "stroke": "#585a5d",
+        "stroke_ratio": 0.051,
+        "multicolor": true,
+        "highlight_name": "grey",
+        "weight": 0.147
+      },
+      "style_zh": "white text, grey outline, keywords highlighted in grey, line height 2.0% (about 39px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": true,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_191",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 41.5,
+      "t1": 41.6,
+      "text": "Hi John,is thisstill available?",
+      "lines": [
+        "Hi John,is thisstill available?"
+      ],
+      "bbox": [
+        0.0889,
+        0.2516,
+        0.4028,
+        0.0211
+      ],
+      "style": {
+        "fill_name": "blue",
+        "fill": "#b7c7db",
+        "stroke_name": "black",
+        "stroke": "#0f1d2f",
+        "stroke_ratio": 0.049,
+        "weight": 0.166
+      },
+      "style_zh": "blue text, black outline, line height 2.1% (about 41px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_190",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 41.5,
+      "t1": 43.7,
+      "text": "Send",
+      "lines": [
+        "Send"
+      ],
+      "bbox": [
+        0.8292,
+        0.2445,
+        0.0861,
+        0.0305
+      ],
+      "style": {
+        "fill_name": "blue",
+        "fill": "#135ad1",
+        "stroke_name": "white",
+        "stroke": "#daf5fd",
+        "stroke_ratio": 0.023,
+        "box": true,
+        "box_name": "blue",
+        "box_color": "#1259fd",
+        "weight": 0.071
+      },
+      "style_zh": "blue text, white outline, blue box, line height 2.1% (about 41px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": true,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_192",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 41.5,
+      "t1": 43.1,
+      "text": "W",
+      "lines": [
+        "W"
+      ],
+      "bbox": [
+        0.1167,
+        0.3781,
+        0.0597,
+        0.0258
+      ],
+      "style": {
+        "fill_name": "black",
+        "fill": "#090a0c",
+        "weight": 0.06
+      },
+      "style_zh": "black text, line height 2.5% (about 48px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": null,
+      "mid_motion": true,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_193",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 41.5,
+      "t1": 43.1,
+      "text": "e",
+      "lines": [
+        "e"
+      ],
+      "bbox": [
+        0.2306,
+        0.3781,
+        0.0347,
+        0.025
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#030406",
+        "stroke_name": "black",
+        "stroke": "#050608",
+        "stroke_ratio": 0.077,
+        "weight": 0.16
+      },
+      "style_zh": "white text, black outline, line height 2.1% (about 41px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": null,
+      "mid_motion": true,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_197",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 41.5,
+      "t1": 43.6,
+      "text": "S",
+      "lines": [
+        "S"
+      ],
+      "bbox": [
+        0.1778,
+        0.4516,
+        0.0417,
+        0.0305
+      ],
+      "style": {
+        "fill_name": "black",
+        "fill": "#303132",
+        "multicolor": true,
+        "highlight_name": "black",
+        "weight": 0.078,
+        "highlight_timing": "spoken"
+      },
+      "style_zh": "black text, keywords highlighted in black, line height 2.6% (about 50px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": true,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_196",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 41.5,
+      "t1": 42.4,
+      "text": "K",
+      "lines": [
+        "K"
+      ],
+      "bbox": [
+        0.7833,
+        0.45,
+        0.0403,
+        0.0296
+      ],
+      "style": {
+        "fill_name": "black",
+        "fill": "#37363b",
+        "multicolor": true,
+        "highlight_name": "black",
+        "weight": 0.067,
+        "highlight_timing": "spoken"
+      },
+      "style_zh": "black text, keywords highlighted in black, line height 2.7% (about 52px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_198",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 41.5,
+      "t1": 43.6,
+      "text": "a",
+      "lines": [
+        "a"
+      ],
+      "bbox": [
+        0.0792,
+        0.4531,
+        0.0319,
+        0.0242
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#fefefe",
+        "stroke_name": "black",
+        "stroke": "#080908",
+        "stroke_ratio": 0.079,
+        "weight": 0.196
+      },
+      "style_zh": "white text, black outline, line height 2.2% (about 42px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": true,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_199",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 41.5,
+      "t1": 41.6,
+      "text": "H",
+      "lines": [
+        "H"
+      ],
+      "bbox": [
+        0.5792,
+        0.4531,
+        0.0417,
+        0.0242
+      ],
+      "style": {
+        "fill_name": "grey",
+        "fill": "#505050",
+        "multicolor": true,
+        "highlight_name": "black",
+        "weight": 0.062
+      },
+      "style_zh": "grey text, keywords highlighted in black, line height 2.4% (about 46px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_200",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 41.5,
+      "t1": 41.6,
+      "text": "D",
+      "lines": [
+        "D"
+      ],
+      "bbox": [
+        0.2806,
+        0.4539,
+        0.0361,
+        0.0242
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#fefefe",
+        "stroke_name": "black",
+        "stroke": "#060707",
+        "stroke_ratio": 0.069,
+        "weight": 0.37
+      },
+      "style_zh": "white text, black outline, bold, line height 2.4% (about 46px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_201",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 41.4,
+      "t1": 41.6,
+      "text": "STRICTLY",
+      "lines": [
+        "STRICTLY"
+      ],
+      "bbox": [
+        0.3111,
+        0.5203,
+        0.3806,
+        0.0328
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f8fbfa",
+        "stroke_name": "grey",
+        "stroke": "#96999e",
+        "stroke_ratio": 0.039,
+        "weight": 0.227
+      },
+      "style_zh": "white text, grey outline, bold, line height 3.3% (about 63px)",
+      "anim_in": {
+        "kind": "fade",
+        "kind_zh": "fade in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_202",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 42.0,
+      "t1": 42.1,
+      "text": "Paint is cooked ill",
+      "lines": [
+        "Paint is cooked ill"
+      ],
+      "bbox": [
+        0.0875,
+        0.2523,
+        0.2375,
+        0.0203
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#e9edf5",
+        "stroke_name": "black",
+        "stroke": "#121319",
+        "stroke_ratio": 0.042,
+        "weight": 0.147
+      },
+      "style_zh": "white text, black outline, line height 2.0% (about 39px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_203",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 42.0,
+      "t1": 42.1,
+      "text": "in",
+      "lines": [
+        "in"
+      ],
+      "bbox": [
+        0.825,
+        0.3195,
+        0.0319,
+        0.0148
+      ],
+      "style": {
+        "fill_name": "grey",
+        "fill": "#6a6b72",
+        "multicolor": true,
+        "highlight_name": "black",
+        "weight": 0.101
+      },
+      "style_zh": "grey text, keywords highlighted in black, line height 1.5% (about 28px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_205",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 42.0,
+      "t1": 43.1,
+      "text": "U",
+      "lines": [
+        "U"
+      ],
+      "bbox": [
+        0.6347,
+        0.3812,
+        0.0347,
+        0.0211
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#cfcfcf",
+        "multicolor": true,
+        "highlight_name": "black"
+      },
+      "style_zh": "white text, keywords highlighted in black, line height 1.8% (about 34px)",
+      "anim_in": null,
+      "anim_out": null,
+      "mid_motion": true,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_206",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 41.6,
+      "t1": 42.1,
+      "text": "LOWBALL",
+      "lines": [
+        "LOWBALL"
+      ],
+      "bbox": [
+        0.3069,
+        0.5195,
+        0.3833,
+        0.0328
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f8fbfa",
+        "stroke_name": "grey",
+        "stroke": "#9a9ea5",
+        "stroke_ratio": 0.036,
+        "weight": 0.227
+      },
+      "style_zh": "white text, grey outline, bold, line height 3.3% (about 63px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_207",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 42.5,
+      "t1": 42.6,
+      "text": "$5,299 $6,500",
+      "lines": [
+        "$5,299 $6,500"
+      ],
+      "bbox": [
+        0.0194,
+        0.2109,
+        0.2319,
+        0.0227
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#fcfbff",
+        "weight": 0.132
+      },
+      "style_zh": "white text, line height 2.3% (about 44px)",
+      "anim_in": null,
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_208",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 42.3,
+      "t1": 42.6,
+      "text": "$4,900/2018Harley-DavidsonSportsterX..2015Harley-DavidsonSportster 883",
+      "lines": [
+        "$4,900",
+        "2018Harley-DavidsonSportsterX..2015Harley-DavidsonSportster 883"
+      ],
+      "bbox": [
+        0.0181,
+        0.2117,
+        0.9639,
+        0.0438
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#fcfdff",
+        "stroke_name": "black",
+        "stroke": "#0e0f10",
+        "stroke_ratio": 0.053,
+        "weight": 0.156
+      },
+      "style_zh": "white text, black outline, line height 2.1% (about 41px)",
+      "anim_in": {
+        "kind": "reveal",
+        "kind_zh": "type-on"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_209",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 42.5,
+      "t1": 42.6,
+      "text": "1.5Kmiles·Auburn",
+      "lines": [
+        "1.5Kmiles·Auburn"
+      ],
+      "bbox": [
+        0.5014,
+        0.2586,
+        0.2375,
+        0.0164
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#e2e2e2",
+        "multicolor": true,
+        "highlight_name": "grey",
+        "weight": 0.091
+      },
+      "style_zh": "white text, keywords highlighted in grey, line height 1.6% (about 31px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_210",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 42.1,
+      "t1": 42.6,
+      "text": "8.9Kmiles·Redmond",
+      "lines": [
+        "8.9Kmiles·Redmond"
+      ],
+      "bbox": [
+        0.0181,
+        0.2602,
+        0.2667,
+        0.0148
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#fcfdff",
+        "weight": 0.144
+      },
+      "style_zh": "white text, line height 1.5% (about 28px)",
+      "anim_in": null,
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_212",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 42.5,
+      "t1": 42.6,
+      "text": "10.000",
+      "lines": [
+        "10.000"
+      ],
+      "bbox": [
+        0.3528,
+        0.5195,
+        0.2931,
+        0.0367
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#fafcfc",
+        "stroke_name": "grey",
+        "stroke": "#959ca2",
+        "stroke_ratio": 0.038,
+        "weight": 0.203
+      },
+      "style_zh": "white text, grey outline, bold, line height 3.7% (about 70px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_213",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 43.0,
+      "t1": 43.7,
+      "text": "1 of 15",
+      "lines": [
+        "1 of 15"
+      ],
+      "bbox": [
+        0.4389,
+        0.0039,
+        0.1208,
+        0.0422
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#edecf1",
+        "box": true,
+        "box_name": "black",
+        "box_color": "#25232b",
+        "weight": 0.104
+      },
+      "style_zh": "white text, black box, line height 2.7% (about 53px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_215",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 43.0,
+      "t1": 43.6,
+      "text": "Sendselleramessage",
+      "lines": [
+        "Sendselleramessage"
+      ],
+      "bbox": [
+        0.1139,
+        0.1875,
+        0.3403,
+        0.0391
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#fcfdff",
+        "stroke_name": "black",
+        "stroke": "#0d0f13",
+        "stroke_ratio": 0.054,
+        "weight": 0.134
+      },
+      "style_zh": "white text, black outline, line height 2.2% (about 43px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": null,
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_216",
+      "kind": "huazi",
+      "kind_zh": "styled text",
+      "t0": 43.0,
+      "t1": 43.1,
+      "text": "Have it cleaned upl",
+      "lines": [
+        "Have it cleaned upl"
+      ],
+      "bbox": [
+        0.0847,
+        0.2516,
+        0.2694,
+        0.0227
+      ],
+      "style": {
+        "fill_name": "blue",
+        "fill": "#9498b6",
+        "gradient": true,
+        "weight": 0.132
+      },
+      "style_zh": "blue text, gradient, line height 2.3% (about 44px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": {
+        "line": "text_217",
+        "text": "\"cleaned up\"",
+        "rel": "during",
+        "dt": 0.0,
+        "word": "cleanedup"
+      },
+      "persistent": null
+    },
+    {
+      "id": "text_217",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 43.0,
+      "t1": 43.1,
+      "text": "\"cleaned up\"",
+      "lines": [
+        "\"cleaned up\""
+      ],
+      "bbox": [
+        0.0292,
+        0.3117,
+        0.2333,
+        0.0273
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#d3f7f9",
+        "stroke_name": "black",
+        "stroke": "#0f1219",
+        "stroke_ratio": 0.034,
+        "weight": 0.164
+      },
+      "style_zh": "white text, black outline, line height 2.7% (about 52px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_218",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 43.0,
+      "t1": 43.1,
+      "text": "upstairs",
+      "lines": [
+        "upstairs"
+      ],
+      "bbox": [
+        0.4347,
+        0.3117,
+        0.1458,
+        0.0281
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#d3f7f9",
+        "stroke_name": "black",
+        "stroke": "#0d0f17",
+        "stroke_ratio": 0.034,
+        "weight": 0.155
+      },
+      "style_zh": "white text, black outline, line height 2.8% (about 54px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_219",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 43.0,
+      "t1": 43.5,
+      "text": "O",
+      "lines": [
+        "O"
+      ],
+      "bbox": [
+        0.8417,
+        0.3852,
+        0.0236,
+        0.0148
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#fcfdff",
+        "stroke_name": "black",
+        "stroke": "#020608",
+        "stroke_ratio": 0.094,
+        "weight": 0.503
+      },
+      "style_zh": "white text, black outline, bold, line height 1.5% (about 28px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": null,
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_220",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 42.6,
+      "t1": 43.2,
+      "text": "HARLEYS",
+      "lines": [
+        "HARLEYS"
+      ],
+      "bbox": [
+        0.3125,
+        0.5195,
+        0.3778,
+        0.0328
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#fafcfc",
+        "stroke_name": "grey",
+        "stroke": "#a6a9ae",
+        "stroke_ratio": 0.031,
+        "weight": 0.227
+      },
+      "style_zh": "white text, grey outline, bold, line height 3.3% (about 63px)",
+      "anim_in": {
+        "kind": "pop",
+        "kind_zh": "scale pop"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_221",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 43.2,
+      "t1": 43.7,
+      "text": "Have it cleaned up for me tonight I'll take it for",
+      "lines": [
+        "Have it cleaned up for me tonight I'll take it for"
+      ],
+      "bbox": [
+        0.0861,
+        0.2344,
+        0.6375,
+        0.0203
+      ],
+      "style": {
+        "fill_name": "grey",
+        "fill": "#bfc1c8",
+        "multicolor": true,
+        "highlight_name": "black",
+        "weight": 0.073
+      },
+      "style_zh": "grey text, keywords highlighted in black, line height 2.0% (about 39px)",
+      "anim_in": {
+        "kind": "reveal",
+        "kind_zh": "type-on"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_222",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 43.1,
+      "t1": 43.7,
+      "text": "$1000",
+      "lines": [
+        "$1000"
+      ],
+      "bbox": [
+        0.0861,
+        0.2539,
+        0.0958,
+        0.0211
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#ebedf5",
+        "stroke_name": "black",
+        "stroke": "#14151a",
+        "stroke_ratio": 0.034,
+        "weight": 0.203
+      },
+      "style_zh": "white text, black outline, bold, line height 2.1% (about 41px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": {
+        "line": "text_223",
+        "text": "\"1000\"",
+        "rel": "before",
+        "dt": 0.2,
+        "word": "1000"
+      },
+      "persistent": null
+    },
+    {
+      "id": "text_223",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 43.3,
+      "t1": 43.8,
+      "text": "\"1000\"",
+      "lines": [
+        "\"1000\""
+      ],
+      "bbox": [
+        0.0931,
+        0.3094,
+        0.1375,
+        0.0312
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#d3f7f9",
+        "stroke_name": "grey",
+        "stroke": "#31333a",
+        "stroke_ratio": 0.02,
+        "weight": 0.164
+      },
+      "style_zh": "white text, grey outline, line height 3.1% (about 60px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_224",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 43.1,
+      "t1": 43.8,
+      "text": "2",
+      "lines": [
+        "2"
+      ],
+      "bbox": [
+        0.1278,
+        0.3758,
+        0.0361,
+        0.0297
+      ],
+      "style": {
+        "fill_name": "grey",
+        "fill": "#505153",
+        "multicolor": true,
+        "highlight_name": "black"
+      },
+      "style_zh": "grey text, keywords highlighted in black, line height 3.0% (about 57px)",
+      "anim_in": null,
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_226",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 43.1,
+      "t1": 43.8,
+      "text": "3",
+      "lines": [
+        "3"
+      ],
+      "bbox": [
+        0.2292,
+        0.3773,
+        0.0375,
+        0.0273
+      ],
+      "style": {
+        "fill_name": "grey",
+        "fill": "#5f6062",
+        "multicolor": true,
+        "highlight_name": "black"
+      },
+      "style_zh": "grey text, keywords highlighted in black, line height 2.7% (about 52px)",
+      "anim_in": null,
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_227",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 43.1,
+      "t1": 43.8,
+      "text": "4",
+      "lines": [
+        "4"
+      ],
+      "bbox": [
+        0.3292,
+        0.3773,
+        0.0389,
+        0.0266
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#fefefe",
+        "stroke_name": "black",
+        "stroke": "#030303",
+        "stroke_ratio": 0.054,
+        "weight": 0.112
+      },
+      "style_zh": "white text, black outline, line height 2.7% (about 51px)",
+      "anim_in": null,
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_228",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 43.1,
+      "t1": 43.8,
+      "text": "5",
+      "lines": [
+        "5"
+      ],
+      "bbox": [
+        0.4347,
+        0.3781,
+        0.0333,
+        0.0258
+      ],
+      "style": {
+        "fill_name": "black",
+        "fill": "#040404",
+        "weight": 0.058
+      },
+      "style_zh": "black text, line height 2.6% (about 50px)",
+      "anim_in": null,
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_229",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 43.5,
+      "t1": 43.6,
+      "text": "8",
+      "lines": [
+        "8"
+      ],
+      "bbox": [
+        0.7375,
+        0.3789,
+        0.0319,
+        0.0234
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#fefefe",
+        "stroke_name": "black",
+        "stroke": "#080908",
+        "stroke_ratio": 0.06,
+        "weight": 0.246
+      },
+      "style_zh": "white text, black outline, bold, line height 2.3% (about 45px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_230",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 43.5,
+      "t1": 43.6,
+      "text": "9",
+      "lines": [
+        "9"
+      ],
+      "bbox": [
+        0.8389,
+        0.3805,
+        0.0264,
+        0.0203
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#fefefe",
+        "stroke_name": "black",
+        "stroke": "#030406",
+        "stroke_ratio": 0.074,
+        "weight": 0.294
+      },
+      "style_zh": "white text, black outline, bold, line height 2.0% (about 39px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_231",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 43.2,
+      "t1": 43.6,
+      "text": "PER",
+      "lines": [
+        "PER"
+      ],
+      "bbox": [
+        0.4153,
+        0.5164,
+        0.1694,
+        0.0398
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#fafcfc",
+        "stroke_name": "grey",
+        "stroke": "#9da3a9",
+        "stroke_ratio": 0.033,
+        "weight": 0.187
+      },
+      "style_zh": "white text, grey outline, line height 4.0% (about 76px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_234",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 43.8,
+      "t1": 44.1,
+      "text": "THIS",
+      "lines": [
+        "THIS"
+      ],
+      "bbox": [
+        0.4069,
+        0.5172,
+        0.1931,
+        0.0398
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f7fbfc",
+        "stroke_name": "grey",
+        "stroke": "#959ea4",
+        "stroke_ratio": 0.033,
+        "weight": 0.187
+      },
+      "style_zh": "white text, grey outline, line height 4.0% (about 76px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_235",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 44.3,
+      "t1": 44.7,
+      "text": "AUTOMATICALLY",
+      "lines": [
+        "AUTOMATICALLY"
+      ],
+      "bbox": [
+        0.1708,
+        0.5195,
+        0.6583,
+        0.0344
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f8fbfa",
+        "stroke_name": "grey",
+        "stroke": "#999fa3",
+        "stroke_ratio": 0.032,
+        "weight": 0.217
+      },
+      "style_zh": "white text, grey outline, bold, line height 3.4% (about 66px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_236",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 44.7,
+      "t1": 45.2,
+      "text": "SWIPE",
+      "lines": [
+        "SWIPE"
+      ],
+      "bbox": [
+        0.3667,
+        0.5188,
+        0.2722,
+        0.0359
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f8fbfa",
+        "stroke_name": "grey",
+        "stroke": "#969da3",
+        "stroke_ratio": 0.036,
+        "weight": 0.208
+      },
+      "style_zh": "white text, grey outline, bold, line height 3.6% (about 69px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_237",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 45.5,
+      "t1": 45.7,
+      "text": "ON",
+      "lines": [
+        "ON"
+      ],
+      "bbox": [
+        0.4361,
+        0.5156,
+        0.1333,
+        0.0422
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f9fcfd",
+        "stroke_name": "grey",
+        "stroke": "#919aa0",
+        "stroke_ratio": 0.036,
+        "weight": 0.188
+      },
+      "style_zh": "white text, grey outline, line height 4.2% (about 81px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_238",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 45.8,
+      "t1": 46.2,
+      "text": "DATING",
+      "lines": [
+        "DATING"
+      ],
+      "bbox": [
+        0.35,
+        0.518,
+        0.3014,
+        0.0375
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f8fbfa",
+        "stroke_name": "grey",
+        "stroke": "#979ea4",
+        "stroke_ratio": 0.032,
+        "weight": 0.199
+      },
+      "style_zh": "white text, grey outline, line height 3.8% (about 72px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_239",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 46.5,
+      "t1": 46.8,
+      "text": "PROFILE",
+      "lines": [
+        "PROFILE"
+      ],
+      "bbox": [
+        0.3347,
+        0.5195,
+        0.3347,
+        0.0336
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#fafcfc",
+        "stroke_name": "grey",
+        "stroke": "#a5a9b0",
+        "stroke_ratio": 0.035,
+        "weight": 0.222
+      },
+      "style_zh": "white text, grey outline, bold, line height 3.4% (about 65px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_240",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 46.8,
+      "t1": 47.1,
+      "text": "50",
+      "lines": [
+        "50"
+      ],
+      "bbox": [
+        0.4389,
+        0.5156,
+        0.1222,
+        0.0422
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f7fbfc",
+        "stroke_name": "grey",
+        "stroke": "#949ea7",
+        "stroke_ratio": 0.034,
+        "weight": 0.177
+      },
+      "style_zh": "white text, grey outline, line height 4.2% (about 81px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_241",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 47.5,
+      "t1": 48.1,
+      "text": "MILES",
+      "lines": [
+        "MILES"
+      ],
+      "bbox": [
+        0.3736,
+        0.5172,
+        0.2528,
+        0.0391
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f7faf9",
+        "stroke_name": "grey",
+        "stroke": "#8d979e",
+        "stroke_ratio": 0.027,
+        "weight": 0.191
+      },
+      "style_zh": "white text, grey outline, line height 3.9% (about 75px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_242",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 48.0,
+      "t1": 48.1,
+      "text": "EVERY",
+      "lines": [
+        "EVERY"
+      ],
+      "bbox": [
+        0.3667,
+        0.6133,
+        0.2736,
+        0.0367
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f6faf7",
+        "stroke_name": "blue",
+        "stroke": "#7d8698",
+        "stroke_ratio": 0.035,
+        "weight": 0.203
+      },
+      "style_zh": "white text, blue outline, bold, line height 3.7% (about 70px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_243",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 48.1,
+      "t1": 48.8,
+      "text": "LUNCH",
+      "lines": [
+        "LUNCH"
+      ],
+      "bbox": [
+        0.3569,
+        0.6109,
+        0.2958,
+        0.0406
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f2f9f5",
+        "stroke_name": "blue",
+        "stroke": "#7c93a9",
+        "stroke_ratio": 0.026,
+        "box": true,
+        "box_name": "grey",
+        "box_color": "#4d4956",
+        "weight": 0.195
+      },
+      "style_zh": "white text, blue outline, grey box, line height 4.1% (about 78px)",
+      "anim_in": null,
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_244",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 49.0,
+      "t1": 49.2,
+      "text": "DINNER",
+      "lines": [
+        "DINNER"
+      ],
+      "bbox": [
+        0.3375,
+        0.6148,
+        0.3097,
+        0.0336
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f7fcf8",
+        "stroke_name": "grey",
+        "stroke": "#848b9a",
+        "stroke_ratio": 0.038,
+        "weight": 0.222
+      },
+      "style_zh": "white text, grey outline, bold, line height 3.4% (about 65px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_248",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 49.5,
+      "t1": 49.6,
+      "text": "WILL",
+      "lines": [
+        "WILL"
+      ],
+      "bbox": [
+        0.4056,
+        0.5195,
+        0.1931,
+        0.0375
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f7fbfc",
+        "stroke_name": "grey",
+        "stroke": "#959ca2",
+        "stroke_ratio": 0.04,
+        "weight": 0.199
+      },
+      "style_zh": "white text, grey outline, line height 3.8% (about 72px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_249",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 49.8,
+      "t1": 50.1,
+      "text": "STEAK",
+      "lines": [
+        "STEAK"
+      ],
+      "bbox": [
+        0.3597,
+        0.518,
+        0.2833,
+        0.0383
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f8fbfa",
+        "stroke_name": "grey",
+        "stroke": "#989ca3",
+        "stroke_ratio": 0.037,
+        "weight": 0.195
+      },
+      "style_zh": "white text, grey outline, line height 3.8% (about 74px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_250",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 50.4,
+      "t1": 50.7,
+      "text": "Ⅱ",
+      "lines": [
+        "Ⅱ"
+      ],
+      "bbox": [
+        0.1931,
+        0.2391,
+        0.0375,
+        0.0211
+      ],
+      "style": {
+        "fill_name": "grey",
+        "fill": "#514b51",
+        "box": true,
+        "box_name": "red",
+        "box_color": "#ed8aa5",
+        "weight": 0.203
+      },
+      "style_zh": "grey text, red box, bold, line height 2.1% (about 41px)",
+      "anim_in": {
+        "kind": "fade",
+        "kind_zh": "fade in"
+      },
+      "anim_out": {
+        "kind": "fade_out",
+        "kind_zh": "fade out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_251",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 50.2,
+      "t1": 50.6,
+      "text": "WHITE",
+      "lines": [
+        "WHITE"
+      ],
+      "bbox": [
+        0.3722,
+        0.5203,
+        0.2653,
+        0.0359
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f8fbfa",
+        "stroke_name": "grey",
+        "stroke": "#9da0a7",
+        "stroke_ratio": 0.035,
+        "weight": 0.208
+      },
+      "style_zh": "white text, grey outline, bold, line height 3.6% (about 69px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_252",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 50.9,
+      "t1": 51.5,
+      "text": "MONSTER.",
+      "lines": [
+        "MONSTER."
+      ],
+      "bbox": [
+        0.2903,
+        0.5211,
+        0.4125,
+        0.0328
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f8fbfa",
+        "stroke_name": "grey",
+        "stroke": "#9ea1a6",
+        "stroke_ratio": 0.035,
+        "weight": 0.227
+      },
+      "style_zh": "white text, grey outline, bold, line height 3.3% (about 63px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_253",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 51.5,
+      "t1": 51.9,
+      "text": "WE HAVE A CHAT",
+      "lines": [
+        "WE HAVE A CHAT"
+      ],
+      "bbox": [
+        0.1653,
+        0.6141,
+        0.6778,
+        0.0352
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f5fbf9",
+        "stroke_name": "grey",
+        "stroke": "#898d9a",
+        "stroke_ratio": 0.029,
+        "weight": 0.212
+      },
+      "style_zh": "white text, grey outline, bold, line height 3.5% (about 68px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "pop_out",
+        "kind_zh": "shrink out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_254",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 51.6,
+      "t1": 52.1,
+      "text": "BOT",
+      "lines": [
+        "BOT"
+      ],
+      "bbox": [
+        0.4125,
+        0.6094,
+        0.1806,
+        0.0422
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f0f9f5",
+        "stroke_name": "grey",
+        "stroke": "#736f7b",
+        "stroke_ratio": 0.033,
+        "weight": 0.188
+      },
+      "style_zh": "white text, grey outline, line height 4.2% (about 81px)",
+      "anim_in": {
+        "kind": "fade",
+        "kind_zh": "fade in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_255",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 52.5,
+      "t1": 53.3,
+      "text": "itemLisBET:https://api.",
+      "lines": [
+        "itemLisBET:https://api."
+      ],
+      "bbox": [
+        0.2958,
+        0.0,
+        0.2722,
+        0.0273
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#edecf1",
+        "weight": 0.133
+      },
+      "style_zh": "white text, line height 2.4% (about 46px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "fade_out",
+        "kind_zh": "fade out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_259",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 52.5,
+      "t1": 52.8,
+      "text": "AUTOMATICALLY",
+      "lines": [
+        "AUTOMATICALLY"
+      ],
+      "bbox": [
+        0.1694,
+        0.5188,
+        0.6625,
+        0.0344
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#fafcfc",
+        "stroke_name": "grey",
+        "stroke": "#9d9fa2",
+        "stroke_ratio": 0.033,
+        "weight": 0.217
+      },
+      "style_zh": "white text, grey outline, bold, line height 3.4% (about 66px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": null,
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_260",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 52.6,
+      "t1": 53.1,
+      "text": "ARGUE",
+      "lines": [
+        "ARGUE"
+      ],
+      "bbox": [
+        0.3542,
+        0.5188,
+        0.2917,
+        0.0359
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#fafcfc",
+        "stroke_name": "grey",
+        "stroke": "#9fa4a8",
+        "stroke_ratio": 0.035,
+        "weight": 0.208
+      },
+      "style_zh": "white text, grey outline, bold, line height 3.6% (about 69px)",
+      "anim_in": null,
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_262",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 53.5,
+      "t1": 53.8,
+      "text": "PEOPLE",
+      "lines": [
+        "PEOPLE"
+      ],
+      "bbox": [
+        0.3444,
+        0.5195,
+        0.3139,
+        0.0336
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#fafcfc",
+        "stroke_name": "grey",
+        "stroke": "#a0a5a9",
+        "stroke_ratio": 0.034,
+        "weight": 0.222
+      },
+      "style_zh": "white text, grey outline, bold, line height 3.4% (about 65px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_263",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 54.0,
+      "t1": 54.1,
+      "text": "f",
+      "lines": [
+        "f"
+      ],
+      "bbox": [
+        0.125,
+        0.2102,
+        0.0417,
+        0.0336
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f5fafd",
+        "stroke_name": "blue",
+        "stroke": "#1a7bf0",
+        "stroke_ratio": 0.061,
+        "weight": 0.133
+      },
+      "style_zh": "white text, blue outline, line height 3.4% (about 65px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_265",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 54.0,
+      "t1": 54.3,
+      "text": "LOCAL",
+      "lines": [
+        "LOCAL"
+      ],
+      "bbox": [
+        0.3667,
+        0.5188,
+        0.2639,
+        0.0359
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f6fcfa",
+        "stroke_name": "grey",
+        "stroke": "#929a9e",
+        "stroke_ratio": 0.041,
+        "weight": 0.208
+      },
+      "style_zh": "white text, grey outline, bold, line height 3.6% (about 69px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_267",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 54.3,
+      "t1": 55.1,
+      "text": "GROUPS.",
+      "lines": [
+        "GROUPS."
+      ],
+      "bbox": [
+        0.3236,
+        0.5195,
+        0.3528,
+        0.0336
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#fafcfc",
+        "stroke_name": "grey",
+        "stroke": "#a1a5a8",
+        "stroke_ratio": 0.039,
+        "weight": 0.222
+      },
+      "style_zh": "white text, grey outline, bold, line height 3.4% (about 65px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_268",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 54.7,
+      "t1": 55.1,
+      "text": "FINALLY",
+      "lines": [
+        "FINALLY"
+      ],
+      "bbox": [
+        0.3306,
+        0.6141,
+        0.3306,
+        0.0359
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f4fbf7",
+        "stroke_name": "grey",
+        "stroke": "#838694",
+        "stroke_ratio": 0.037,
+        "weight": 0.208
+      },
+      "style_zh": "white text, grey outline, bold, line height 3.6% (about 69px)",
+      "anim_in": {
+        "kind": "fade",
+        "kind_zh": "fade in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_269",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 55.5,
+      "t1": 55.7,
+      "text": "THE",
+      "lines": [
+        "THE"
+      ],
+      "bbox": [
+        0.4222,
+        0.6109,
+        0.1667,
+        0.0406
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f6fcf6",
+        "stroke_name": "grey",
+        "stroke": "#7a8292",
+        "stroke_ratio": 0.038,
+        "weight": 0.184
+      },
+      "style_zh": "white text, grey outline, line height 4.1% (about 78px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_270",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 56.0,
+      "t1": 59.1,
+      "text": "SearcheBayDealsFindProfitableItems/GET:https://svcs.ebay.com/se...",
+      "lines": [
+        "SearcheBayDealsFindProfitableItems",
+        "GET:https://svcs.ebay.com/se..."
+      ],
+      "bbox": [
+        0.0444,
+        0.1922,
+        0.4681,
+        0.0351
+      ],
+      "style": {
+        "fill_name": "grey",
+        "fill": "#d3d7de",
+        "multicolor": true,
+        "highlight_name": "black",
+        "weight": 0.101
+      },
+      "style_zh": "grey text, keywords highlighted in black, line height 1.5% (about 28px)",
+      "anim_in": {
+        "kind": "reveal",
+        "kind_zh": "type-on"
+      },
+      "anim_out": {
+        "kind": "pop_out",
+        "kind_zh": "shrink out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_271",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 56.0,
+      "t1": 56.6,
+      "text": "GET:https://svcs.ebay.com/se.",
+      "lines": [
+        "GET:https://svcs.ebay.com/se."
+      ],
+      "bbox": [
+        0.0569,
+        0.2133,
+        0.2625,
+        0.0133
+      ],
+      "style": {
+        "fill_name": "grey",
+        "fill": "#78787d",
+        "multicolor": true,
+        "highlight_name": "grey",
+        "weight": 0.112
+      },
+      "style_zh": "grey text, keywords highlighted in grey, line height 1.3% (about 26px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "fade_out",
+        "kind_zh": "fade out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_275",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 56.0,
+      "t1": 58.6,
+      "text": "plitOutitems:itemLisET:https://api.ebay.com/@Ey..https://api.ebay.com/sel...",
+      "lines": [
+        "plitOutitems:itemLisET:https://api.ebay.com/@Ey..https://api.ebay.com/sel..."
+      ],
+      "bbox": [
+        0.0889,
+        0.3297,
+        0.6749,
+        0.0382
+      ],
+      "style": {
+        "fill_name": "grey",
+        "fill": "#52545a",
+        "multicolor": true,
+        "highlight_name": "brown",
+        "weight": 0.099
+      },
+      "style_zh": "grey text, keywords highlighted in brown, line height 1.5% (about 29px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": null,
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_277",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 56.0,
+      "t1": 59.1,
+      "text": "append:sheet",
+      "lines": [
+        "append:sheet"
+      ],
+      "bbox": [
+        0.7542,
+        0.3336,
+        0.1875,
+        0.0359
+      ],
+      "style": {
+        "fill_name": "grey",
+        "fill": "#37363b",
+        "multicolor": true,
+        "highlight_name": "grey",
+        "weight": 0.096
+      },
+      "style_zh": "grey text, keywords highlighted in grey, line height 1.6% (about 30px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "fade_out",
+        "kind_zh": "fade out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_278",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 56.0,
+      "t1": 56.5,
+      "text": "FLIPPER",
+      "lines": [
+        "FLIPPER"
+      ],
+      "bbox": [
+        0.3375,
+        0.5211,
+        0.3278,
+        0.0328
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#fafcfc",
+        "stroke_name": "grey",
+        "stroke": "#a5a8ad",
+        "stroke_ratio": 0.033,
+        "weight": 0.227
+      },
+      "style_zh": "white text, grey outline, bold, line height 3.3% (about 63px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_279",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 56.5,
+      "t1": 56.8,
+      "text": "BOT,",
+      "lines": [
+        "BOT,"
+      ],
+      "bbox": [
+        0.4069,
+        0.5148,
+        0.1847,
+        0.0461
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f8fbfa",
+        "stroke_name": "grey",
+        "stroke": "#949da3",
+        "stroke_ratio": 0.033,
+        "weight": 0.162
+      },
+      "style_zh": "white text, grey outline, line height 4.6% (about 89px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_280",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 57.0,
+      "t1": 57.8,
+      "text": "BULK",
+      "lines": [
+        "BULK"
+      ],
+      "bbox": [
+        0.3944,
+        0.5188,
+        0.2181,
+        0.0375
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f8fbfa",
+        "stroke_name": "grey",
+        "stroke": "#8a9398",
+        "stroke_ratio": 0.042,
+        "weight": 0.208
+      },
+      "style_zh": "white text, grey outline, bold, line height 3.6% (about 69px)",
+      "anim_in": {
+        "kind": "reveal",
+        "kind_zh": "type-on"
+      },
+      "anim_out": null,
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_281",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 57.5,
+      "t1": 59.1,
+      "text": "GET:https://svcs.ebay.com/se...",
+      "lines": [
+        "GET:https://svcs.ebay.com/se..."
+      ],
+      "bbox": [
+        0.0264,
+        0.2094,
+        0.2944,
+        0.0172
+      ],
+      "style": {
+        "fill_name": "grey",
+        "fill": "#78787d",
+        "weight": 0.156
+      },
+      "style_zh": "grey text, line height 1.6% (about 31px)",
+      "anim_in": {
+        "kind": "fade",
+        "kind_zh": "fade in"
+      },
+      "anim_out": null,
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_282",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 57.5,
+      "t1": 59.1,
+      "text": "Get Item Details",
+      "lines": [
+        "Get Item Details"
+      ],
+      "bbox": [
+        0.3097,
+        0.332,
+        0.1778,
+        0.0188
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#2c2228",
+        "multicolor": true,
+        "highlight_name": "black",
+        "weight": 0.096
+      },
+      "style_zh": "white text, keywords highlighted in black, line height 1.6% (about 30px)",
+      "anim_in": {
+        "kind": "reveal",
+        "kind_zh": "type-on"
+      },
+      "anim_out": null,
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_283",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 57.8,
+      "t1": 58.3,
+      "text": "TACTICAL",
+      "lines": [
+        "TACTICAL"
+      ],
+      "bbox": [
+        0.3125,
+        0.5195,
+        0.3764,
+        0.0352
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f8fbfa",
+        "stroke_name": "grey",
+        "stroke": "#979c9e",
+        "stroke_ratio": 0.038,
+        "weight": 0.212
+      },
+      "style_zh": "white text, grey outline, bold, line height 3.5% (about 68px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_284",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 58.3,
+      "t1": 58.7,
+      "text": "AND",
+      "lines": [
+        "AND"
+      ],
+      "bbox": [
+        0.4056,
+        0.518,
+        0.1875,
+        0.0398
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#fafcfc",
+        "stroke_name": "grey",
+        "stroke": "#979fa3",
+        "stroke_ratio": 0.035,
+        "weight": 0.187
+      },
+      "style_zh": "white text, grey outline, line height 4.0% (about 76px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_285",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 59.0,
+      "t1": 59.3,
+      "text": "FLIP",
+      "lines": [
+        "FLIP"
+      ],
+      "bbox": [
+        0.4139,
+        0.518,
+        0.175,
+        0.0383
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#fafcfc",
+        "stroke_name": "grey",
+        "stroke": "#9da2a6",
+        "stroke_ratio": 0.038,
+        "weight": 0.195
+      },
+      "style_zh": "white text, grey outline, line height 3.8% (about 74px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "pop_out",
+        "kind_zh": "shrink out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_286",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 59.4,
+      "t1": 59.6,
+      "text": "I'LL MAKE",
+      "lines": [
+        "I'LL MAKE"
+      ],
+      "bbox": [
+        0.3069,
+        0.6148,
+        0.3875,
+        0.0336
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f6faf7",
+        "stroke_name": "blue",
+        "stroke": "#7f8798",
+        "stroke_ratio": 0.034,
+        "weight": 0.222
+      },
+      "style_zh": "white text, blue outline, bold, line height 3.4% (about 65px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_287",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 59.8,
+      "t1": 60.1,
+      "text": "THIS",
+      "lines": [
+        "THIS"
+      ],
+      "bbox": [
+        0.4083,
+        0.6125,
+        0.1903,
+        0.0375
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f7fcf8",
+        "stroke_name": "blue",
+        "stroke": "#7c8b9e",
+        "stroke_ratio": 0.032,
+        "weight": 0.199
+      },
+      "style_zh": "white text, blue outline, line height 3.8% (about 72px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_288",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 60.4,
+      "t1": 60.8,
+      "text": "SOON",
+      "lines": [
+        "SOON"
+      ],
+      "bbox": [
+        0.3792,
+        0.6109,
+        0.2569,
+        0.0406
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f1f9f7",
+        "stroke_name": "blue",
+        "stroke": "#7d8c9f",
+        "stroke_ratio": 0.032,
+        "weight": 0.195
+      },
+      "style_zh": "white text, blue outline, line height 4.1% (about 78px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_289",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 60.8,
+      "t1": 61.1,
+      "text": "AUTOMATION,",
+      "lines": [
+        "AUTOMATION,"
+      ],
+      "bbox": [
+        0.2222,
+        0.6133,
+        0.5472,
+        0.0367
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f7fcf8",
+        "stroke_name": "grey",
+        "stroke": "#9c8c90",
+        "stroke_ratio": 0.031,
+        "weight": 0.203
+      },
+      "style_zh": "white text, grey outline, bold, line height 3.7% (about 70px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_290",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 61.2,
+      "t1": 61.7,
+      "text": "JUST",
+      "lines": [
+        "JUST"
+      ],
+      "bbox": [
+        0.3917,
+        0.6117,
+        0.2236,
+        0.0391
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f0f9f5",
+        "stroke_name": "grey",
+        "stroke": "#76727e",
+        "stroke_ratio": 0.035,
+        "weight": 0.191
+      },
+      "style_zh": "white text, grey outline, line height 3.9% (about 75px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_291",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 61.9,
+      "t1": 62.1,
+      "text": "\"HELL YEAH\"",
+      "lines": [
+        "\"HELL YEAH\""
+      ],
+      "bbox": [
+        0.2347,
+        0.6109,
+        0.5319,
+        0.0398
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f2faf8",
+        "stroke_name": "grey",
+        "stroke": "#777985",
+        "stroke_ratio": 0.035,
+        "weight": 0.187
+      },
+      "style_zh": "white text, grey outline, line height 4.0% (about 76px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_292",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 62.1,
+      "t1": 62.6,
+      "text": "AND",
+      "lines": [
+        "AND"
+      ],
+      "bbox": [
+        0.4056,
+        0.6117,
+        0.1833,
+        0.0398
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f6faf7",
+        "stroke_name": "grey",
+        "stroke": "#7a7986",
+        "stroke_ratio": 0.039,
+        "weight": 0.199
+      },
+      "style_zh": "white text, grey outline, line height 4.0% (about 76px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_293",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 62.9,
+      "t1": 63.1,
+      "text": "TO YOU",
+      "lines": [
+        "TO YOU"
+      ],
+      "bbox": [
+        0.3486,
+        0.6125,
+        0.3097,
+        0.0383
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f1f9f7",
+        "stroke_name": "grey",
+        "stroke": "#776f78",
+        "stroke_ratio": 0.037,
+        "weight": 0.195
+      },
+      "style_zh": "white text, grey outline, line height 3.8% (about 74px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_294",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 63.4,
+      "t1": 63.9,
+      "text": "FREE.",
+      "lines": [
+        "FREE."
+      ],
+      "bbox": [
+        0.3861,
+        0.6133,
+        0.2181,
+        0.0367
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#fafbf7",
+        "stroke_name": "blue",
+        "stroke": "#7f8ea5",
+        "stroke_ratio": 0.033,
+        "weight": 0.198
+      },
+      "style_zh": "white text, blue outline, line height 3.7% (about 70px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": null,
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    }
+  ],
+  "stickers": [
+    {
+      "kind": "static_sticker",
+      "kind_zh": "static sticker / image",
+      "t0": 8.4,
+      "t1": 12.4,
+      "bbox": [
+        0.4,
+        0.857,
+        0.15,
+        0.057
+      ],
+      "animated": false,
+      "loop_period_s": null,
+      "looping": false,
+      "activity": 1.4,
+      "appears_mid_shot": false,
+      "disappears_mid_shot": false,
+      "crosses_cut": true,
+      "confidence": "medium",
+      "id": "sticker_01",
+      "image": "packaging/sticker_01.jpg",
+      "persistent": {
+        "cuts": 1
+      }
+    },
+    {
+      "kind": "static_sticker",
+      "kind_zh": "static sticker / image",
+      "t0": 20.3,
+      "t1": 26.1,
+      "bbox": [
+        0.15,
+        0.686,
+        0.15,
+        0.086
+      ],
+      "animated": false,
+      "loop_period_s": null,
+      "looping": false,
+      "activity": 1.6,
+      "appears_mid_shot": false,
+      "disappears_mid_shot": false,
+      "crosses_cut": true,
+      "confidence": "medium",
+      "id": "sticker_02",
+      "image": "packaging/sticker_02.jpg",
+      "anchor": {
+        "line": "text_070",
+        "text": "Today 8:07 PM",
+        "rel": "after",
+        "dt": 0.7,
+        "word": null
+      },
+      "persistent": {
+        "cuts": 1
+      }
+    },
+    {
+      "kind": "static_sticker",
+      "kind_zh": "static sticker / image",
+      "t0": 26.3,
+      "t1": 31.1,
+      "bbox": [
+        0.4,
+        0.857,
+        0.15,
+        0.086
+      ],
+      "animated": false,
+      "loop_period_s": null,
+      "looping": false,
+      "activity": 1.6,
+      "appears_mid_shot": false,
+      "disappears_mid_shot": false,
+      "crosses_cut": true,
+      "confidence": "medium",
+      "id": "sticker_03",
+      "image": "packaging/sticker_03.jpg",
+      "persistent": {
+        "cuts": 1
+      }
+    },
+    {
+      "kind": "static_sticker",
+      "kind_zh": "static sticker / image",
+      "t0": 43.9,
+      "t1": 49.5,
+      "bbox": [
+        0.7,
+        0.771,
+        0.15,
+        0.086
+      ],
+      "animated": false,
+      "loop_period_s": null,
+      "looping": false,
+      "activity": 1.3,
+      "appears_mid_shot": false,
+      "disappears_mid_shot": false,
+      "crosses_cut": true,
+      "confidence": "medium",
+      "id": "sticker_04",
+      "image": "packaging/sticker_04.jpg",
+      "anchor": {
+        "line": "text_223",
+        "text": "\"1000\"",
+        "rel": "after",
+        "dt": 0.1,
+        "word": null
+      },
+      "persistent": {
+        "cuts": 1
+      }
+    },
+    {
+      "kind": "static_sticker",
+      "kind_zh": "static sticker / image",
+      "t0": 52.6,
+      "t1": 55.9,
+      "bbox": [
+        0.4,
+        0.857,
+        0.15,
+        0.086
+      ],
+      "animated": false,
+      "loop_period_s": null,
+      "looping": false,
+      "activity": 2.2,
+      "appears_mid_shot": false,
+      "disappears_mid_shot": false,
+      "crosses_cut": true,
+      "confidence": "medium",
+      "id": "sticker_05",
+      "image": "packaging/sticker_05.jpg",
+      "persistent": {
+        "cuts": 1
+      }
+    },
+    {
+      "kind": "static_sticker",
+      "kind_zh": "static sticker / image",
+      "t0": 56.1,
+      "t1": 63.8,
+      "bbox": [
+        0.4,
+        0.857,
+        0.15,
+        0.086
+      ],
+      "animated": false,
+      "loop_period_s": null,
+      "looping": false,
+      "activity": 1.1,
+      "appears_mid_shot": false,
+      "disappears_mid_shot": false,
+      "crosses_cut": true,
+      "confidence": "medium",
+      "id": "sticker_06",
+      "image": "packaging/sticker_06.jpg",
+      "persistent": {
+        "cuts": 1
+      }
+    }
+  ],
+  "sfx": []
+}
