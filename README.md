@@ -35,7 +35,7 @@ link or file  ->  first pass (measures shots, cuts, camera, light, captions, sou
               ->  SKILL.md (the editing skill)  ->  your own edit
 ```
 
-The review step matters. A video downloaded from Instagram or TikTok has been compressed, which wipes out the evidence the measurements rely on, so the first pass often calls filmed footage "AI". An AI that can see the frames fixes that. On my own filmed talking-head reel the first pass said 100% AI-generated; after the review it said 100% live action, which is correct.
+The review step matters. A video downloaded from Instagram or TikTok has been compressed, which wipes out the evidence the measurements rely on, so the first pass often calls filmed footage "AI". An AI that can see the frames fixes that. On my phone-filmed Polymarket reel the first pass called 5 of the 11 shots AI video; after the review it said 100% filmed, which is correct.
 
 ---
 
@@ -118,9 +118,13 @@ Worked examples, made with the commands above. Each folder has the report, the `
 
 | Video | Plays | Length | Made with | Shots | Open |
 |---|---|---|---|---|---|
-| [Tuesday simulator](https://www.instagram.com/reel/DNheWi8uTPK/), one of my most played reels | 5.2M | 64 s | filmed 74%, motion graphics 26% | 29 | [report](breakdowns/tuesday-simulator/report.md) · [VIDEO.md](breakdowns/tuesday-simulator/VIDEO.md) · [storyboard](breakdowns/tuesday-simulator/storyboard.jpg) · [the skill](skills-library/fast-list-talking-head-with-inserts/SKILL.md) |
+| [Tuesday simulator](https://www.instagram.com/reel/DNheWi8uTPK/) | 5.2M | 64 s | filmed 74%, motion graphics 26% | 29 | [report](breakdowns/tuesday-simulator/report.md) · [VIDEO.md](breakdowns/tuesday-simulator/VIDEO.md) · [storyboard](breakdowns/tuesday-simulator/storyboard.jpg) · [the skill](skills-library/fast-list-talking-head-with-inserts/SKILL.md) |
+| [Marketplace lowball bot](https://www.instagram.com/reel/DLqDNmSSmr0/) | 2.2M | 52 s | filmed 52%, motion graphics 45%, screen capture 4% | 27 | [report](breakdowns/marketplace-bot/report.md) · [VIDEO.md](breakdowns/marketplace-bot/VIDEO.md) · [storyboard](breakdowns/marketplace-bot/storyboard.jpg) |
+| [Claude Code on Polymarket](https://www.instagram.com/reel/DWr2krjEgoe/) | 700K | 41 s | filmed 100% (phone) | 11 | [report](breakdowns/polymarket-claude/report.md) · [VIDEO.md](breakdowns/polymarket-claude/VIDEO.md) · [storyboard](breakdowns/polymarket-claude/storyboard.jpg) |
 
-More of my reels are being added. These are my own videos, so the frames are mine to publish. Break down anyone's video for yourself, but keep other people's frames out of anything you publish.
+What the three have in common, measured: [patterns/PATTERNS.md](patterns/PATTERNS.md).
+
+These are three of my most played reels. They are my own videos, so the frames are mine to publish. Break down anyone's video for yourself, but keep other people's frames out of anything you publish.
 
 Break down several videos and compare them:
 

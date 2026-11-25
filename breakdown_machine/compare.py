@@ -20,8 +20,8 @@ COLS = [
     ("Median shot (s)", lambda f: f["median_shot"]),
     ("First cut (s)", lambda f: f["first3"]["first_cut_s"]),
     ("Cuts in first 3 s", lambda f: f["first3"]["cuts"]),
-    ("Captions / min", lambda f: f["cues_per_min"]),
-    ("Words / caption", lambda f: f["cue_median_words"]),
+    ("Text cues / min", lambda f: f["cues_per_min"]),
+    ("Words / cue", lambda f: f["cue_median_words"]),
     ("Sound effects", lambda f: f["sfx"]),
     ("Inserts", lambda f: f["insert_share"]),
 ]
@@ -66,7 +66,9 @@ def main():
         read = "consistent: part of the pattern" if spread <= 0.5 else ("varies" if spread <= 1.5 else "swings widely: not a rule")
         L.append(f"| {c} | {cell(mid, c)} | {cell(lo, c)} | {cell(hi, c)} | {read} |")
     L += ["", "\"Consistent\" means the highest and lowest are within half of the middle value. With fewer than 5 videos,",
-          "treat every line as a hint, not a rule."]
+          "treat every line as a hint, not a rule.", "",
+          "Two columns need care. \"Text cues\" counts captions and any other text the engine read in the picture (a filmed screen",
+          "full of text scores very high). \"Sound effects\" on a platform download only counts the ones loud enough to find."]
     text = "\n".join(L) + "\n"
     if a.out:
         Path(a.out).parent.mkdir(parents=True, exist_ok=True)

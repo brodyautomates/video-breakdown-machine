@@ -29,7 +29,7 @@ breakdown's frames) or **inferred** (a reading; treat it as a default, not a fac
 | Camera | moving 51%, fixed 49% |
 | Light | soft front; key from right; ratio 1.243:1 |
 | Grade | natural (close to the original colours); normal saturation; normal contrast; normal blacks |
-| Captions | 294 cues, 276.2 per minute, median 0.5 s on screen, median 1.0 words (max 11), centre height y = 0.437 |
+| On-screen text (captions plus any text read in the picture) | 294 cues, 276.2 per minute, median 0.5 s on screen, median 1.0 words (max 11), centre height y = 0.437 |
 | Stickers and picture-in-picture | 6 |
 | Sound effects | none found |
 | Music | none |
@@ -37,8 +37,8 @@ breakdown's frames) or **inferred** (a reading; treat it as a default, not a fac
 | Loudness | -17.1 dBFS average, -1.2 dBFS peak, silence 0% |
 | Confidence | 0.756 overall, shots reviewed by claude |
 
-Two rows need a note. "Captions" counts every piece of text the engine read, including the labels inside the workflow
-diagrams, so 276 per minute is not the caption rate; the spoken-word captions are in section 6. "Sound effects: none
+Two rows need a note. "On-screen text" counts every piece of text the engine read, including the labels inside the
+workflow diagrams, so 276 per minute is not the caption rate; the spoken-word captions are in section 6. "Sound effects: none
 found" and "Music: none" are what the engine found on a platform download with the voice on top; the review did not
 listen to the sound (see the last section).
 

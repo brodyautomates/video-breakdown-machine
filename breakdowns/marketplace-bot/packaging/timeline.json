@@ -1,0 +1,2552 @@
+{
+  "text": [
+    {
+      "id": "text_001",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 0.0,
+      "t1": 0.2,
+      "text": "AUTOMATION",
+      "lines": [
+        "AUTOMATION"
+      ],
+      "bbox": [
+        0.3,
+        0.6344,
+        0.4042,
+        0.0445
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f5fafd",
+        "stroke_name": "blue",
+        "stroke": "#557692",
+        "stroke_ratio": 0.029,
+        "weight": 0.134
+      },
+      "style_zh": "white text, blue outline, line height 4.5% (about 57px)",
+      "anim_in": null,
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_002",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 0.2,
+      "t1": 0.6,
+      "text": "SENDS",
+      "lines": [
+        "SENDS"
+      ],
+      "bbox": [
+        0.3931,
+        0.6336,
+        0.2153,
+        0.0477
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f9fcfd",
+        "stroke_name": "blue",
+        "stroke": "#4c708b",
+        "stroke_ratio": 0.027,
+        "weight": 0.125
+      },
+      "style_zh": "white text, blue outline, line height 4.8% (about 61px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_003",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 0.8,
+      "t1": 1.2,
+      "text": "10,000",
+      "lines": [
+        "10,000"
+      ],
+      "bbox": [
+        0.3861,
+        0.6297,
+        0.2292,
+        0.0547
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f7f9fd",
+        "stroke_name": "blue",
+        "stroke": "#5282a2",
+        "stroke_ratio": 0.018,
+        "weight": 0.117
+      },
+      "style_zh": "white text, blue outline, line height 5.5% (about 70px)",
+      "anim_in": {
+        "kind": "fade",
+        "kind_zh": "fade in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_011",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 1.4,
+      "t1": 1.6,
+      "text": "Alerts",
+      "lines": [
+        "Alerts"
+      ],
+      "bbox": [
+        0.1681,
+        0.6766,
+        0.0944,
+        0.0234
+      ],
+      "style": {
+        "fill_name": "grey",
+        "fill": "#3f3c40",
+        "weight": 0.064
+      },
+      "style_zh": "grey text, line height 2.3% (about 30px)",
+      "anim_in": {
+        "kind": "pop",
+        "kind_zh": "scale pop"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_012",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 1.2,
+      "t1": 1.7,
+      "text": "Message",
+      "lines": [
+        "Message"
+      ],
+      "bbox": [
+        0.3375,
+        0.6773,
+        0.1347,
+        0.0227
+      ],
+      "style": {
+        "fill_name": "black",
+        "fill": "#18181b",
+        "weight": 0.066
+      },
+      "style_zh": "black text, line height 2.3% (about 29px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_013",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 1.2,
+      "t1": 1.7,
+      "text": "Share",
+      "lines": [
+        "Share"
+      ],
+      "bbox": [
+        0.55,
+        0.6773,
+        0.0903,
+        0.0219
+      ],
+      "style": {
+        "fill_name": "black",
+        "fill": "#121215",
+        "weight": 0.068
+      },
+      "style_zh": "black text, line height 2.2% (about 28px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_014",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 1.5,
+      "t1": 1.7,
+      "text": "Save",
+      "lines": [
+        "Save"
+      ],
+      "bbox": [
+        0.7458,
+        0.6773,
+        0.0778,
+        0.0219
+      ],
+      "style": {
+        "fill_name": "black",
+        "fill": "#0f0f13",
+        "weight": 0.068
+      },
+      "style_zh": "black text, line height 2.2% (about 28px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_015",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 0.9,
+      "t1": 1.7,
+      "text": "Description",
+      "lines": [
+        "Description"
+      ],
+      "bbox": [
+        0.1194,
+        0.7375,
+        0.2069,
+        0.0234
+      ],
+      "style": {
+        "fill_name": "black",
+        "fill": "#0e0d12",
+        "stroke_name": "white",
+        "stroke": "#d9d6db",
+        "stroke_ratio": 0.02,
+        "weight": 0.064
+      },
+      "style_zh": "black text, white outline, line height 2.3% (about 30px)",
+      "anim_in": {
+        "kind": "reveal",
+        "kind_zh": "type-on"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_017",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 1.5,
+      "t1": 1.6,
+      "text": "more",
+      "lines": [
+        "more"
+      ],
+      "bbox": [
+        0.1167,
+        0.843,
+        0.0847,
+        0.018
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#e6e3e8",
+        "multicolor": true,
+        "highlight_name": "grey",
+        "weight": 0.083
+      },
+      "style_zh": "white text, keywords highlighted in grey, line height 1.8% (about 23px)",
+      "anim_in": null,
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_056",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 3.9,
+      "t1": 4.3,
+      "text": "BASICALLY",
+      "lines": [
+        "BASICALLY"
+      ],
+      "bbox": [
+        0.3278,
+        0.6328,
+        0.3431,
+        0.0484
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f5fafd",
+        "stroke_name": "blue",
+        "stroke": "#4f6d86",
+        "stroke_ratio": 0.025,
+        "weight": 0.133
+      },
+      "style_zh": "white text, blue outline, line height 4.8% (about 62px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_057",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 4.5,
+      "t1": 4.6,
+      "text": "THISWORKS",
+      "lines": [
+        "THISWORKS"
+      ],
+      "bbox": [
+        0.3111,
+        0.6344,
+        0.3833,
+        0.0461
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f6fbfe",
+        "stroke_name": "blue",
+        "stroke": "#587f9a",
+        "stroke_ratio": 0.024,
+        "weight": 0.139
+      },
+      "style_zh": "white text, blue outline, line height 4.6% (about 59px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_058",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 4.6,
+      "t1": 5.2,
+      "text": "IS",
+      "lines": [
+        "IS"
+      ],
+      "bbox": [
+        0.4625,
+        0.6312,
+        0.0778,
+        0.0508
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f6fbfe",
+        "stroke_name": "grey",
+        "stroke": "#5c748a",
+        "stroke_ratio": 0.029,
+        "box": true,
+        "box_name": "blue",
+        "box_color": "#31526f",
+        "weight": 0.126
+      },
+      "style_zh": "white text, grey outline, blue box, line height 5.1% (about 65px)",
+      "anim_in": null,
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_059",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 5.4,
+      "t1": 5.6,
+      "text": "START",
+      "lines": [
+        "START"
+      ],
+      "bbox": [
+        0.3944,
+        0.6305,
+        0.2153,
+        0.0523
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f7fbfc",
+        "stroke_name": "blue",
+        "stroke": "#4384a8",
+        "stroke_ratio": 0.02,
+        "weight": 0.114
+      },
+      "style_zh": "white text, blue outline, line height 5.2% (about 67px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_060",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 5.9,
+      "t1": 6.3,
+      "text": "THETRIGGER,",
+      "lines": [
+        "THETRIGGER,"
+      ],
+      "bbox": [
+        0.2958,
+        0.6328,
+        0.4069,
+        0.0492
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f7fbfc",
+        "stroke_name": "blue",
+        "stroke": "#537a95",
+        "stroke_ratio": 0.022,
+        "weight": 0.13
+      },
+      "style_zh": "white text, blue outline, line height 4.9% (about 63px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": null,
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_065",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 6.3,
+      "t1": 6.6,
+      "text": "START",
+      "lines": [
+        "START"
+      ],
+      "bbox": [
+        0.3944,
+        0.632,
+        0.2097,
+        0.0508
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f9fcfd",
+        "stroke_name": "grey",
+        "stroke": "#51677c",
+        "stroke_ratio": 0.029,
+        "weight": 0.118
+      },
+      "style_zh": "white text, grey outline, line height 5.1% (about 65px)",
+      "anim_in": null,
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_070",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 8.8,
+      "t1": 9.3,
+      "text": "DEALS.",
+      "lines": [
+        "DEALS."
+      ],
+      "bbox": [
+        0.3931,
+        0.6328,
+        0.2139,
+        0.0484
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f9fcfd",
+        "stroke_name": "blue",
+        "stroke": "#4a86a6",
+        "stroke_ratio": 0.019,
+        "box": true,
+        "box_name": "blue",
+        "box_color": "#b4c3ea",
+        "weight": 0.123
+      },
+      "style_zh": "white text, blue outline, blue box, line height 4.8% (about 62px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_071",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 9.5,
+      "t1": 10.0,
+      "text": "TAKETHEDATA",
+      "lines": [
+        "TAKETHEDATA"
+      ],
+      "bbox": [
+        0.275,
+        0.6359,
+        0.45,
+        0.043
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f9fcfd",
+        "stroke_name": "blue",
+        "stroke": "#4f6e88",
+        "stroke_ratio": 0.028,
+        "weight": 0.149
+      },
+      "style_zh": "white text, blue outline, line height 4.3% (about 55px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_073",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 10.5,
+      "t1": 12.3,
+      "text": "Item filter",
+      "lines": [
+        "Item filter"
+      ],
+      "bbox": [
+        0.4694,
+        0.5523,
+        0.1695,
+        0.0305
+      ],
+      "style": {
+        "fill": "#a09ea4",
+        "fill_name": "grey",
+        "weight": 0.07
+      },
+      "style_zh": "grey text, line height 3.0% (about 38px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_077",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 12.3,
+      "t1": 12.9,
+      "text": "YOU CAN CHOOSE",
+      "lines": [
+        "YOU CAN CHOOSE"
+      ],
+      "bbox": [
+        0.2375,
+        0.6359,
+        0.5319,
+        0.0422
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f9fcfd",
+        "stroke_name": "blue",
+        "stroke": "#506c83",
+        "stroke_ratio": 0.028,
+        "weight": 0.152
+      },
+      "style_zh": "white text, blue outline, line height 4.2% (about 54px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_078",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 12.9,
+      "t1": 13.3,
+      "text": "ITEMS",
+      "lines": [
+        "ITEMS"
+      ],
+      "bbox": [
+        0.4056,
+        0.6328,
+        0.1986,
+        0.0492
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f9fcfd",
+        "stroke_name": "blue",
+        "stroke": "#4c6d85",
+        "stroke_ratio": 0.026,
+        "box": true,
+        "box_name": "blue",
+        "box_color": "#b0c4ec",
+        "weight": 0.121
+      },
+      "style_zh": "white text, blue outline, blue box, line height 4.9% (about 63px)",
+      "anim_in": null,
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_079",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 13.4,
+      "t1": 13.7,
+      "text": "TYPICALLY",
+      "lines": [
+        "TYPICALLY"
+      ],
+      "bbox": [
+        0.3361,
+        0.6336,
+        0.3292,
+        0.0461
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f9fcfd",
+        "stroke_name": "blue",
+        "stroke": "#4c667d",
+        "stroke_ratio": 0.024,
+        "weight": 0.129
+      },
+      "style_zh": "white text, blue outline, line height 4.6% (about 59px)",
+      "anim_in": null,
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_080",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 13.7,
+      "t1": 14.1,
+      "text": "IGO",
+      "lines": [
+        "IGO"
+      ],
+      "bbox": [
+        0.4264,
+        0.6281,
+        0.1486,
+        0.0562
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f7fbfc",
+        "stroke_name": "blue",
+        "stroke": "#477692",
+        "stroke_ratio": 0.023,
+        "weight": 0.114
+      },
+      "style_zh": "white text, blue outline, line height 5.6% (about 72px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_081",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 14.3,
+      "t1": 14.9,
+      "text": "FOR CARS",
+      "lines": [
+        "FOR CARS"
+      ],
+      "bbox": [
+        0.3444,
+        0.6328,
+        0.3125,
+        0.0484
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f9fcfd",
+        "stroke_name": "blue",
+        "stroke": "#4d7da1",
+        "stroke_ratio": 0.024,
+        "weight": 0.133
+      },
+      "style_zh": "white text, blue outline, line height 4.8% (about 62px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_082",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 14.9,
+      "t1": 15.5,
+      "text": "ITWILL",
+      "lines": [
+        "ITWILL"
+      ],
+      "bbox": [
+        0.3833,
+        0.6297,
+        0.2431,
+        0.0555
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f6fbfe",
+        "stroke_name": "blue",
+        "stroke": "#476b86",
+        "stroke_ratio": 0.022,
+        "weight": 0.108
+      },
+      "style_zh": "white text, blue outline, line height 5.5% (about 71px)",
+      "anim_in": null,
+      "anim_out": null,
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_085",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 15.5,
+      "t1": 17.5,
+      "text": "Lowball Algorithm",
+      "lines": [
+        "Lowball Algorithm"
+      ],
+      "bbox": [
+        0.3764,
+        0.5531,
+        0.3236,
+        0.0273
+      ],
+      "style": {
+        "fill": "#bbbbc1",
+        "fill_name": "grey",
+        "weight": 0.078
+      },
+      "style_zh": "grey text, line height 2.7% (about 35px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_086",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 15.5,
+      "t1": 17.5,
+      "text": "Flaw",
+      "lines": [
+        "Flaw"
+      ],
+      "bbox": [
+        0.7444,
+        0.557,
+        0.1042,
+        0.0242
+      ],
+      "style": {
+        "fill": "#9e9fa4",
+        "fill_name": "grey",
+        "stroke": "#727277",
+        "stroke_name": "grey",
+        "stroke_ratio": 0.03,
+        "weight": 0.123
+      },
+      "style_zh": "grey text, grey outline, line height 2.2% (about 28px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_091",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 17.5,
+      "t1": 17.9,
+      "text": "SHOULD",
+      "lines": [
+        "SHOULD"
+      ],
+      "bbox": [
+        0.3708,
+        0.6328,
+        0.2583,
+        0.0477
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f9fcfd",
+        "stroke_name": "blue",
+        "stroke": "#4d7693",
+        "stroke_ratio": 0.029,
+        "weight": 0.135
+      },
+      "style_zh": "white text, blue outline, line height 4.8% (about 61px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_092",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 17.9,
+      "t1": 18.3,
+      "text": "LOWBALL",
+      "lines": [
+        "LOWBALL"
+      ],
+      "bbox": [
+        0.35,
+        0.6312,
+        0.2875,
+        0.0492
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f9fcfd",
+        "stroke_name": "blue",
+        "stroke": "#4e7694",
+        "stroke_ratio": 0.028,
+        "weight": 0.121
+      },
+      "style_zh": "white text, blue outline, line height 4.9% (about 63px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_093",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 18.3,
+      "t1": 18.6,
+      "text": "THIS",
+      "lines": [
+        "THIS"
+      ],
+      "bbox": [
+        0.4278,
+        0.6289,
+        0.1556,
+        0.0555
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f6fdfd",
+        "stroke_name": "blue",
+        "stroke": "#407591",
+        "stroke_ratio": 0.03,
+        "weight": 0.116
+      },
+      "style_zh": "white text, blue outline, line height 5.5% (about 71px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_094",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 18.8,
+      "t1": 19.1,
+      "text": "ITEM.",
+      "lines": [
+        "ITEM."
+      ],
+      "bbox": [
+        0.4097,
+        0.6281,
+        0.1875,
+        0.057
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f9fcfd",
+        "stroke_name": "blue",
+        "stroke": "#407a9a",
+        "stroke_ratio": 0.027,
+        "weight": 0.105
+      },
+      "style_zh": "white text, blue outline, line height 5.7% (about 73px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_096",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 19.5,
+      "t1": 21.1,
+      "text": "Message B",
+      "lines": [
+        "Message B"
+      ],
+      "bbox": [
+        0.7278,
+        0.5695,
+        0.1653,
+        0.0242
+      ],
+      "style": {
+        "fill": "#9ea1a6",
+        "fill_name": "grey",
+        "weight": 0.116
+      },
+      "style_zh": "grey text, line height 2.4% (about 31px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "slide_out",
+        "kind_zh": "slide out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_102",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 21.9,
+      "t1": 22.1,
+      "text": "EVEN",
+      "lines": [
+        "EVEN"
+      ],
+      "bbox": [
+        0.4167,
+        0.6328,
+        0.175,
+        0.0492
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f9fcfd",
+        "stroke_name": "blue",
+        "stroke": "#4a6b83",
+        "stroke_ratio": 0.028,
+        "weight": 0.121
+      },
+      "style_zh": "white text, blue outline, line height 4.9% (about 63px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_103",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 22.3,
+      "t1": 22.7,
+      "text": "AFTER",
+      "lines": [
+        "AFTER"
+      ],
+      "bbox": [
+        0.4014,
+        0.6336,
+        0.2056,
+        0.0484
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f9fcfd",
+        "stroke_name": "blue",
+        "stroke": "#4a7d9c",
+        "stroke_ratio": 0.028,
+        "weight": 0.123
+      },
+      "style_zh": "white text, blue outline, line height 4.8% (about 62px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_110",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 23.0,
+      "t1": 26.3,
+      "text": "Flaw Detection",
+      "lines": [
+        "Flaw Detection"
+      ],
+      "bbox": [
+        0.1181,
+        0.8117,
+        0.2083,
+        0.0414
+      ],
+      "style": {
+        "fill": "#929298",
+        "fill_name": "grey",
+        "weight": 0.072
+      },
+      "style_zh": "grey text, line height 2.7% (about 34px)",
+      "anim_in": {
+        "kind": "slide",
+        "kind_zh": "slide in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_143",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 26.3,
+      "t1": 26.8,
+      "text": "TO THE",
+      "lines": [
+        "TO THE"
+      ],
+      "bbox": [
+        0.3903,
+        0.6297,
+        0.2222,
+        0.0539
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f8fcff",
+        "stroke_name": "blue",
+        "stroke": "#486781",
+        "stroke_ratio": 0.026,
+        "weight": 0.119
+      },
+      "style_zh": "white text, blue outline, line height 5.4% (about 69px)",
+      "anim_in": null,
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_174",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 29.0,
+      "t1": 29.1,
+      "text": "Engine",
+      "lines": [
+        "Engine"
+      ],
+      "bbox": [
+        0.5028,
+        0.8336,
+        0.1153,
+        0.0258
+      ],
+      "style": {
+        "fill": "#bdbdc3",
+        "fill_name": "grey",
+        "weight": 0.083
+      },
+      "style_zh": "grey text, line height 2.6% (about 33px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_184",
+      "kind": "subtitle",
+      "kind_zh": "subtitle",
+      "t0": 29.4,
+      "t1": 30.5,
+      "text": "Relentless Negotiation/Engine",
+      "lines": [
+        "Relentless Negotiation",
+        "Engine"
+      ],
+      "bbox": [
+        0.375,
+        0.8117,
+        0.35,
+        0.0477
+      ],
+      "style": {
+        "fill": "#c9c9cf",
+        "fill_name": "white",
+        "weight": 0.044
+      },
+      "style_zh": "white text, line height 2.4% (about 31px)",
+      "anim_in": {
+        "kind": "fade",
+        "kind_zh": "fade in"
+      },
+      "anim_out": {
+        "kind": "fade_out",
+        "kind_zh": "fade out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_191",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 30.7,
+      "t1": 31.5,
+      "text": "POSSIBLE",
+      "lines": [
+        "POSSIBLE"
+      ],
+      "bbox": [
+        0.3389,
+        0.6297,
+        0.3097,
+        0.0516
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f9fcfd",
+        "stroke_name": "blue",
+        "stroke": "#527a99",
+        "stroke_ratio": 0.027,
+        "weight": 0.124
+      },
+      "style_zh": "white text, blue outline, line height 5.2% (about 66px)",
+      "anim_in": null,
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_192",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 31.3,
+      "t1": 31.6,
+      "text": "USUALLY",
+      "lines": [
+        "USUALLY"
+      ],
+      "bbox": [
+        0.3611,
+        0.6336,
+        0.2722,
+        0.0469
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f8fcff",
+        "stroke_name": "blue",
+        "stroke": "#4e7893",
+        "stroke_ratio": 0.029,
+        "weight": 0.127
+      },
+      "style_zh": "white text, blue outline, line height 4.7% (about 60px)",
+      "anim_in": {
+        "kind": "fade",
+        "kind_zh": "fade in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_193",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 31.9,
+      "t1": 32.2,
+      "text": "POINT,",
+      "lines": [
+        "POINT,"
+      ],
+      "bbox": [
+        0.3944,
+        0.6297,
+        0.2111,
+        0.0562
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f9fcfd",
+        "stroke_name": "blue",
+        "stroke": "#55819d",
+        "stroke_ratio": 0.019,
+        "weight": 0.106
+      },
+      "style_zh": "white text, blue outline, line height 5.6% (about 72px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "slide_out",
+        "kind_zh": "slide out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_194",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 32.5,
+      "t1": 32.8,
+      "text": "GHOST",
+      "lines": [
+        "GHOST"
+      ],
+      "bbox": [
+        0.3944,
+        0.632,
+        0.2264,
+        0.05
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f9fcfd",
+        "box": true,
+        "box_name": "cyan",
+        "box_color": "#0082ab",
+        "weight": 0.128
+      },
+      "style_zh": "white text, cyan box, line height 5.0% (about 64px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_247",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 36.5,
+      "t1": 36.9,
+      "text": "UPS.",
+      "lines": [
+        "UPS."
+      ],
+      "bbox": [
+        0.4236,
+        0.6297,
+        0.1597,
+        0.0539
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f8fcff",
+        "stroke_name": "blue",
+        "stroke": "#4a728b",
+        "stroke_ratio": 0.029,
+        "weight": 0.119
+      },
+      "style_zh": "white text, blue outline, line height 5.4% (about 69px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "pop_out",
+        "kind_zh": "shrink out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_252",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 38.5,
+      "t1": 38.8,
+      "text": "THEN",
+      "lines": [
+        "THEN"
+      ],
+      "bbox": [
+        0.4167,
+        0.6289,
+        0.1764,
+        0.0539
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f7fbfc",
+        "stroke_name": "blue",
+        "stroke": "#48647e",
+        "stroke_ratio": 0.022,
+        "weight": 0.123
+      },
+      "style_zh": "white text, blue outline, line height 5.4% (about 69px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "fade_out",
+        "kind_zh": "fade out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_253",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 38.9,
+      "t1": 39.1,
+      "text": "GOTO",
+      "lines": [
+        "GOTO"
+      ],
+      "bbox": [
+        0.4056,
+        0.6305,
+        0.1931,
+        0.0516
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f6fbfe",
+        "stroke_name": "blue",
+        "stroke": "#4e7794",
+        "stroke_ratio": 0.03,
+        "weight": 0.124
+      },
+      "style_zh": "white text, blue outline, line height 5.2% (about 66px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_256",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 39.5,
+      "t1": 39.6,
+      "text": "alculator",
+      "lines": [
+        "alculator"
+      ],
+      "bbox": [
+        0.0958,
+        0.6172,
+        0.1611,
+        0.0273
+      ],
+      "style": {
+        "fill_name": "grey",
+        "fill": "#97979d",
+        "weight": 0.187
+      },
+      "style_zh": "grey text, line height 2.7% (about 35px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_257",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 39.5,
+      "t1": 39.6,
+      "text": "VALUE",
+      "lines": [
+        "VALUE"
+      ],
+      "bbox": [
+        0.4056,
+        0.6328,
+        0.2014,
+        0.0484
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#fafdff",
+        "stroke_name": "grey",
+        "stroke": "#597387",
+        "stroke_ratio": 0.028,
+        "weight": 0.123
+      },
+      "style_zh": "white text, grey outline, line height 4.8% (about 62px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_266",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 43.0,
+      "t1": 43.8,
+      "text": "THIS IS GREAT",
+      "lines": [
+        "THIS IS GREAT"
+      ],
+      "bbox": [
+        0.2917,
+        0.6344,
+        0.4222,
+        0.0453
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f9fcfd",
+        "stroke_name": "grey",
+        "stroke": "#5c738b",
+        "stroke_ratio": 0.026,
+        "weight": 0.138
+      },
+      "style_zh": "white text, grey outline, line height 4.5% (about 57px)",
+      "anim_in": null,
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_267",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 44.0,
+      "t1": 44.3,
+      "text": "HAVE",
+      "lines": [
+        "HAVE"
+      ],
+      "bbox": [
+        0.4111,
+        0.6281,
+        0.1819,
+        0.0555
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f8fcff",
+        "stroke_name": "blue",
+        "stroke": "#4e708a",
+        "stroke_ratio": 0.03,
+        "weight": 0.108
+      },
+      "style_zh": "white text, blue outline, line height 5.5% (about 71px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_268",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 44.4,
+      "t1": 44.6,
+      "text": "MANUAL",
+      "lines": [
+        "MANUAL"
+      ],
+      "bbox": [
+        0.3639,
+        0.6336,
+        0.2764,
+        0.0469
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f7fbfc",
+        "stroke_name": "grey",
+        "stroke": "#616c7f",
+        "stroke_ratio": 0.027,
+        "weight": 0.127
+      },
+      "style_zh": "white text, grey outline, line height 4.7% (about 60px)",
+      "anim_in": null,
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_269",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 44.6,
+      "t1": 45.1,
+      "text": "LABOR",
+      "lines": [
+        "LABOR"
+      ],
+      "bbox": [
+        0.3958,
+        0.632,
+        0.2167,
+        0.0484
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f9fcfd",
+        "stroke_name": "grey",
+        "stroke": "#5c6e85",
+        "stroke_ratio": 0.025,
+        "weight": 0.133
+      },
+      "style_zh": "white text, grey outline, line height 4.8% (about 62px)",
+      "anim_in": null,
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_270",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 45.5,
+      "t1": 46.0,
+      "text": "LOWBALLING",
+      "lines": [
+        "LOWBALLING"
+      ],
+      "bbox": [
+        0.3,
+        0.6312,
+        0.4,
+        0.0492
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#fafcff",
+        "stroke_name": "grey",
+        "stroke": "#5e758d",
+        "stroke_ratio": 0.023,
+        "weight": 0.121
+      },
+      "style_zh": "white text, grey outline, line height 4.9% (about 63px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_271",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 46.0,
+      "t1": 46.2,
+      "text": "ON",
+      "lines": [
+        "ON"
+      ],
+      "bbox": [
+        0.4528,
+        0.6297,
+        0.1056,
+        0.0523
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f7fbfc",
+        "stroke_name": "blue",
+        "stroke": "#4e6c85",
+        "stroke_ratio": 0.025,
+        "weight": 0.114
+      },
+      "style_zh": "white text, blue outline, line height 5.2% (about 67px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_272",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 46.3,
+      "t1": 46.8,
+      "text": "MARKETPLACE.",
+      "lines": [
+        "MARKETPLACE."
+      ],
+      "bbox": [
+        0.2722,
+        0.6359,
+        0.4556,
+        0.0406
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f9fcfd",
+        "stroke_name": "blue",
+        "stroke": "#5e7892",
+        "stroke_ratio": 0.028,
+        "weight": 0.147
+      },
+      "style_zh": "white text, blue outline, line height 4.1% (about 52px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_273",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 47.0,
+      "t1": 47.2,
+      "text": "DO",
+      "lines": [
+        "DO"
+      ],
+      "bbox": [
+        0.45,
+        0.6312,
+        0.1097,
+        0.0508
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f6fbfe",
+        "stroke_name": "blue",
+        "stroke": "#577690",
+        "stroke_ratio": 0.027,
+        "weight": 0.143
+      },
+      "style_zh": "white text, blue outline, line height 5.1% (about 65px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_274",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 47.3,
+      "t1": 47.8,
+      "text": "10,000",
+      "lines": [
+        "10,000"
+      ],
+      "bbox": [
+        0.3875,
+        0.6312,
+        0.2264,
+        0.0531
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f9fcfd",
+        "stroke_name": "blue",
+        "stroke": "#527895",
+        "stroke_ratio": 0.026,
+        "weight": 0.112
+      },
+      "style_zh": "white text, blue outline, line height 5.3% (about 68px)",
+      "anim_in": null,
+      "anim_out": {
+        "kind": "pop_out",
+        "kind_zh": "shrink out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_275",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 48.0,
+      "t1": 48.4,
+      "text": "THESE",
+      "lines": [
+        "THESE"
+      ],
+      "bbox": [
+        0.4028,
+        0.6258,
+        0.2028,
+        0.0578
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f6fbfe",
+        "stroke_name": "blue",
+        "stroke": "#4d7390",
+        "stroke_ratio": 0.029,
+        "weight": 0.111
+      },
+      "style_zh": "white text, blue outline, line height 5.8% (about 74px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": null,
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_276",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 48.4,
+      "t1": 48.7,
+      "text": "IF YOU WANT",
+      "lines": [
+        "IF YOU WANT"
+      ],
+      "bbox": [
+        0.3014,
+        0.6305,
+        0.3944,
+        0.05
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f6fbfe",
+        "stroke_name": "blue",
+        "stroke": "#5c7c9a",
+        "stroke_ratio": 0.022,
+        "weight": 0.119
+      },
+      "style_zh": "white text, blue outline, line height 5.0% (about 64px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_277",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 48.7,
+      "t1": 49.1,
+      "text": "THIS",
+      "lines": [
+        "THIS"
+      ],
+      "bbox": [
+        0.4264,
+        0.6289,
+        0.1569,
+        0.0547
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f6fbfe",
+        "stroke_name": "blue",
+        "stroke": "#47728c",
+        "stroke_ratio": 0.032,
+        "weight": 0.117
+      },
+      "style_zh": "white text, blue outline, line height 5.5% (about 70px)",
+      "anim_in": null,
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_278",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 49.3,
+      "t1": 49.6,
+      "text": "JUST",
+      "lines": [
+        "JUST"
+      ],
+      "bbox": [
+        0.4167,
+        0.6297,
+        0.1736,
+        0.0539
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f9fcfd",
+        "stroke_name": "blue",
+        "stroke": "#497591",
+        "stroke_ratio": 0.032,
+        "weight": 0.111
+      },
+      "style_zh": "white text, blue outline, line height 5.4% (about 69px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_279",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 49.9,
+      "t1": 50.1,
+      "text": "\"FACEBOOK",
+      "lines": [
+        "\"FACEBOOK"
+      ],
+      "bbox": [
+        0.3083,
+        0.6336,
+        0.3611,
+        0.0461
+      ],
+      "style": {
+        "fill_name": "green",
+        "fill": "#00fa6f",
+        "stroke_name": "green",
+        "stroke": "#2d8e61",
+        "stroke_ratio": 0.025,
+        "weight": 0.129
+      },
+      "style_zh": "green text, green outline, line height 4.6% (about 59px)",
+      "anim_in": {
+        "kind": "fade",
+        "kind_zh": "fade in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_280",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 50.5,
+      "t1": 50.6,
+      "text": "THEN",
+      "lines": [
+        "THEN"
+      ],
+      "bbox": [
+        0.4208,
+        0.6312,
+        0.1736,
+        0.0531
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f9fbfe",
+        "stroke_name": "grey",
+        "stroke": "#5d728d",
+        "stroke_ratio": 0.025,
+        "weight": 0.137
+      },
+      "style_zh": "white text, grey outline, line height 5.3% (about 68px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_281",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 50.9,
+      "t1": 51.3,
+      "text": "SEND YOU",
+      "lines": [
+        "SEND YOU"
+      ],
+      "bbox": [
+        0.3403,
+        0.6258,
+        0.3236,
+        0.057
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f7fbfc",
+        "stroke_name": "grey",
+        "stroke": "#64728c",
+        "stroke_ratio": 0.021,
+        "weight": 0.113
+      },
+      "style_zh": "white text, grey outline, line height 5.7% (about 73px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_282",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 51.4,
+      "t1": 52.0,
+      "text": "MARKETPLACE",
+      "lines": [
+        "MARKETPLACE"
+      ],
+      "bbox": [
+        0.2792,
+        0.6367,
+        0.4458,
+        0.0406
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f9fcfd",
+        "stroke_name": "grey",
+        "stroke": "#64768e",
+        "stroke_ratio": 0.031,
+        "weight": 0.158
+      },
+      "style_zh": "white text, grey outline, line height 4.1% (about 52px)",
+      "anim_in": null,
+      "anim_out": {
+        "kind": "cut_out",
+        "kind_zh": "hard out"
+      },
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    },
+    {
+      "id": "text_283",
+      "kind": "label",
+      "kind_zh": "text label",
+      "t0": 52.0,
+      "t1": 52.4,
+      "text": "WORKFLOW.",
+      "lines": [
+        "WORKFLOW."
+      ],
+      "bbox": [
+        0.3167,
+        0.6352,
+        0.3667,
+        0.043
+      ],
+      "style": {
+        "fill_name": "white",
+        "fill": "#f9fcfd",
+        "stroke_name": "grey",
+        "stroke": "#647d95",
+        "stroke_ratio": 0.024,
+        "weight": 0.139
+      },
+      "style_zh": "white text, grey outline, line height 4.3% (about 55px)",
+      "anim_in": {
+        "kind": "cut",
+        "kind_zh": "hard in"
+      },
+      "anim_out": null,
+      "mid_motion": null,
+      "follows": null,
+      "part_of_picture": false,
+      "anchor": null,
+      "persistent": null
+    }
+  ],
+  "stickers": [
+    {
+      "kind": "animated_sticker",
+      "kind_zh": "animated sticker / GIF",
+      "t0": 0.1,
+      "t1": 2.4,
+      "bbox": [
+        0.1,
+        0.143,
+        0.15,
+        0.114
+      ],
+      "animated": true,
+      "loop_period_s": null,
+      "looping": false,
+      "activity": 2.7,
+      "appears_mid_shot": false,
+      "disappears_mid_shot": false,
+      "crosses_cut": true,
+      "confidence": "medium",
+      "id": "sticker_01",
+      "image": "packaging/sticker_01.jpg",
+      "persistent": {
+        "cuts": 1
+      }
+    },
+    {
+      "kind": "static_sticker",
+      "kind_zh": "static sticker / image",
+      "t0": 26.4,
+      "t1": 30.6,
+      "bbox": [
+        0.55,
+        0.714,
+        0.2,
+        0.086
+      ],
+      "animated": false,
+      "loop_period_s": null,
+      "looping": false,
+      "activity": 1.9,
+      "appears_mid_shot": false,
+      "disappears_mid_shot": false,
+      "crosses_cut": true,
+      "confidence": "medium",
+      "id": "sticker_02",
+      "image": "packaging/sticker_02.jpg",
+      "anchor": {
+        "line": "text_110",
+        "text": "Flaw Detection",
+        "rel": "after",
+        "dt": 0.1,
+        "word": null
+      },
+      "persistent": {
+        "cuts": 1
+      }
+    },
+    {
+      "kind": "static_sticker",
+      "kind_zh": "static sticker / image",
+      "t0": 26.4,
+      "t1": 30.6,
+      "bbox": [
+        0.05,
+        0.886,
+        0.15,
+        0.086
+      ],
+      "animated": false,
+      "loop_period_s": null,
+      "looping": false,
+      "activity": 2.4,
+      "appears_mid_shot": false,
+      "disappears_mid_shot": false,
+      "crosses_cut": true,
+      "confidence": "medium",
+      "id": "sticker_03",
+      "image": "packaging/sticker_03.jpg",
+      "anchor": {
+        "line": "text_110",
+        "text": "Flaw Detection",
+        "rel": "after",
+        "dt": 0.1,
+        "word": null
+      },
+      "persistent": {
+        "cuts": 1
+      }
+    },
+    {
+      "kind": "static_sticker",
+      "kind_zh": "static sticker / image",
+      "t0": 26.9,
+      "t1": 31.5,
+      "bbox": [
+        0.35,
+        0.686,
+        0.25,
+        0.057
+      ],
+      "animated": false,
+      "loop_period_s": null,
+      "looping": false,
+      "activity": 1.0,
+      "appears_mid_shot": false,
+      "disappears_mid_shot": false,
+      "crosses_cut": true,
+      "confidence": "medium",
+      "id": "sticker_04",
+      "image": "packaging/sticker_04.jpg",
+      "anchor": {
+        "line": "text_110",
+        "text": "Flaw Detection",
+        "rel": "after",
+        "dt": 0.6,
+        "word": null
+      },
+      "persistent": {
+        "cuts": 1
+      }
+    }
+  ],
+  "sfx": [
+    {
+      "t": 10.26,
+      "type": "pop",
+      "description": null,
+      "source": "effects_stem",
+      "confidence": "medium",
+      "on": null
+    }
+  ]
+}

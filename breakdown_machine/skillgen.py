@@ -118,7 +118,7 @@ def facts_md(f: dict) -> str:
         ("Camera", shares(f["camera"])),
         ("Light", f"{str(f['light_setup'] or 'not measured').replace('_', ' ')}; key from {f['key_side'] or '?'}; ratio {f['light_ratio']}:1" if f["light_setup"] else "not measured (no filmed shots)"),
         ("Grade", "; ".join(str(v) for v in list(f["grade_words"].values())[:4]) or "not measured"),
-        ("Captions", f"{f['caption_cues']} cues, {f['cues_per_min']} per minute, median {f['cue_median_s']} s on screen, median {f['cue_median_words']} words (max {f['cue_max_words']}), centre height y = {f['cue_y']}" if f["caption_cues"] else "none found"),
+        ("On-screen text (captions plus any text read in the picture)", f"{f['caption_cues']} cues, {f['cues_per_min']} per minute, median {f['cue_median_s']} s on screen, median {f['cue_median_words']} words (max {f['cue_max_words']}), centre height y = {f['cue_y']}" if f["caption_cues"] else "none found"),
         ("Stickers and picture-in-picture", str(f["stickers"])),
         ("Sound effects", f"{f['sfx']} ({', '.join(f['sfx_types'])})" if f["sfx"] else "none found"),
         ("Music", (f"yes, {f['bpm']} BPM" if f["bpm"] else "yes") if f["music"] else "none"),
